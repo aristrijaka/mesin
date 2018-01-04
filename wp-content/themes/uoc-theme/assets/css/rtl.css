@@ -1,0 +1,350 @@
+
+body, .rtl .widget, .rtl .page-section .flexslider2 .slides article {
+  direction: rtl;
+}
+
+.rtl .flexslider, .rtl .owl-carousel, .rtl .page-sidebar, .rtl .testimonial-slider, .rtl .news-ticker, .rtl .cs-team-slider {
+  direction: ltr !important;
+}
+body.logged-in.admin-bar{overflow-x: hidden;}
+
+/*============  FLOAT SECTION STYLE ============ */
+ .rtl .left-side, .rtl #main-header .logo, .rtl .top-nav ul li a .rtl, .header-search span, .rtl .navigation ul li, 
+ .rtl .navigation, .rtl .slider-caption h1, .rtl .slider-caption p, .rtl .ticker-title, .rtl .news-ticker ul li p, .rtl .news-ticker ul li time, .rtl .news-info a.cs-readmore-btn i, .rtl .medium-news article figure figcaption a i, 
+ .rtl .cs-eventslider figcaption time, .rtl .event-caption, .rtl .cs-eventslider figcaption time i, 
+ .rtl .medium-news article figure, .rtl .cs-gallery-nav, .rtl .cs-gallery-nav li, .rtl .devider1, .rtl .cat-multicolor ul li a, .rtl .cat-multicolor ul li a:before, .rtl .cs-campunews ul li figure, .rtl .viewall-btn,
+ .rtl .search-course ul li input[type="submit"], .rtl .search-course ul li.search-submit a, .rtl span.newsletter-title, .rtl .newsletter-from input[type="submit"], .rtl .newsletter-from input[type="text"],
+ .rtl .widget_twitter ul li i, .rtl .widget_twitter .thumb-twitter, .rtl .social-media h6, .rtl .copyright, .rtl .image-frame.frame-plane figure, .rtl .read-more, .rtl .cs-services.modren figure, .rtl .nav-tabs > li, .rtl .widget_cetegorie ul li a:before, .rtl .widget_cetegorie ul li a:before, .rtl .cs-blog-medium .cs-media, .post-options li, .rtl .cs-blog article figure,
+ .rtl .cs-thumb-post ul li, .rtl .widget_cetegorie ul li a, .rtl .widget_archive ul li a, .rtl .recentblog-nows article figure, .rtl .widget_tabs .tab-nav li, .rtl .widget_tag_cloud .cs-tags ul li, .rtl .date-time, .rtl .cs-blog .cs-comments, .rtl .cs-thumb-post figure, .rtl .cs-thumb-post, .rtl .cs-sharepost, .rtl .cs-attachment ul li, .rtl .thumblist figure, .rtl .thumblist .cs-text-box header h6,
+ .rtl .thumblist .cs-text-box header time, .rtl .cs-contact-info ul li i, .rtl .cs-plain-form label input[type="text"], .rtl .cs-plain-form label input[type="email"], .rtl .cs-opening ul li span.day, .rtl .cs-opening ul li .timehoure .time-start i, .rtl .cs-filterable .cs-sort, .rtl .cs-courses.listing-view article figure, .rtl .cs-courses.listing-view .course-info li,
+ .rtl .cs-courses.listing-view article .course-tags li, .rtl .cs-course-table .content .title-bar > ul > li, .rtl .cs-detail-area figure, .rtl .cs-detail-area .course-tags li, .rtl .cs-detail-area .address-box .price-box, .rtl .cs-course-detail .cs-features li, .rtl .cs-tabs .tab-nav li, .rtl .cs-document-list li, .rtl .pull-left,
+ .rtl .cs-filter-menu li, .rtl .events-listing .text span, .rtl .post-options li i, .rtl .categories li, .rtl .categories li a, .rtl .events-grid .text time, .rtl .events-listing figure, .rtl .event-editor .socialmedia a, .rtl .socialmedia a i, .rtl .cs-team, .rtl .cs-teamgrid figure, .rtl .cs-teamgrid .text, .rtl .list-btn i, .rtl .cs-question-list ul li a i,
+ .rtl .cs-answer-list .back-top-btn, .rtl .cs-search-results ul li figure, .rtl .page-no-search .cs-search-area input[type="text"], .rtl .page-no-search .cs-search-area label, .rtl .contactdiv ul li, .rtl .social-media-blog ul, .rtl .social-media-blog ul li, .rtl .cs-services.cs-classic.left figure, .skillbar, .rtl .contactdiv_detail ul li ul li:nth-child(1), .rtl .contactdiv_detail ul li ul li, .rtl .detaillisting li:before,
+ .rtl .widget-courses article figure, .rtl .widget-online-poll .inner-sec ul li a:before, .rtl .widget-team article figure, .rtl .social-media ul, .rtl .social-media ul li, .rtl .content-area .thumb-list li,
+ .rtl .cs-main-filterable .cs-filter-nav li, .rtl .testimonial-slider h4,  .rtl .footer-logo, .rtl .widget_categories ul li a, .rtl .widget_archive ul li a,
+ .rtl .widget_categories ul li a:before, .rtl .widget_list ul li a:before, .rtl .widget_nav_menu ul li a:before, .rtl .widget_archive ul li a:before, .rtl .widget_pages ul li a:before, .rtl .widget_meta ul li a:before,
+ .rtl .page-sidebar .widget_categories ul li a::before, .rtl .page-sidebar .widget_categories ul li a, .rtl .widget_tag_cloud .tagcloud a, .rtl .search-course ul li input[type="text"], .rtl .post-options li, 
+ .rtl .events-grid .text .cs-event-time, .rtl .thumbcontactdiv span, .rtl .cs-courses.listing-view .course-info .details, .rtl .cs-course-table .head ul li, .rtl .cs-team.team-box .media-left{
+  float: right;
+}
+
+
+.rtl .right-side, .rtl .header-search form, .rtl .bottom-footer .social-media, .rtl .cs-post-pagination .cs-prev-next, .rtl .cs-opening ul li .timehoure, .rtl .cs-filterable .cs-views, .rtl .cs-courses.listing-view.list-2 article .price,
+.rtl .fc-view-container, .rtl .grid-filter, .rtl .main-filter .question-btn, .rtl .ticket-area, .rtl .get-enrole-button, .responsive-btn, .rtl .newsletter-from, .rtl .cs-course-table .content .title-bar > ul > .opener {
+  float: left;
+}
+
+/*============  Text Right ============ */
+ .rtl .slider-caption, .rtl .event-caption, .rtl .call-actions .cell.heading, .rtl .call-actions, .rtl .cs-services.cs-classic .text, .rtl .cs-services.cs-classic .text, .rtl .cs-gallery.plain figcaption, 
+ .rtl .news-ticker ul.slides li p, .navigation ul > li, .rtl .search-course h6, .rtl .search-course ul li input[type="text"], .rtl .select-style select{
+  text-align: right;
+}
+
+/*============  Text Left ============ */
+.rtl .cat-multicolor ul li, .rtl .fc-ltr .fc-basic-view .fc-day-number, .rtl .widget_cetegorie ul li, .rtl .widget_archive ul li, .rtl .top-nav ul, .rtl .page-sidebar .widget_categories ul li{
+  text-align: left;
+}
+
+.rtl .ac-classic.center, .rtl .call-actions.ac-classic.text-center .rtl .cell, .rtl .cs-services.cs-classic.to-center .text,
+.rtl table > thead > tr > th, .rtl table > tbody > tr > th, .rtl table > tfoot > tr > th, .rtl table > thead > tr > td, .rtl table > tbody > tr > td, .rtl table > tfoot > tr > td{
+  text-align: center ;
+}
+.rtl .widget_categories ul li a, .rtl .widget_archive ul li a {text-align: right !important;}
+.rtl .suggestions ul li{padding: 0 15px 0 0;}
+.rtl .categories li i {margin-right: 0px; margin-left: 9px;}
+.rtl .events-listing figure ~ section{padding: 0 185px 0 0px}
+.rtl .event-editor .socialmedia ul::before{left: auto; right: 50%;}
+.rtl .event-editor .socialmedia ul{top: -136px;}
+.rtl .event-editor .socialmedia .add_calendar{left: auto; right: 0px; top: -102px;}
+.rtl .thumbcontactdiv span{margin-left: 5px;}
+.rtl .cs-gallery.plain figcaption{left: auto; right: 0px;}
+.rtl .cs-social-share li .cs-sharepost-btn i{margin-left: 10px; margin-right: 0px;}
+/*============  Header Style ============ */
+.rtl #main-header .header-search label {left: 1px; right: auto;}
+.rtl #main-header .header-search input[type="text"] {border-radius: 40px 4px 4px 40px;}
+.rtl #main-header .header-search label input[type="submit"] {border-radius: 40px 4px 4px 40px; border-style: none solid none none; border-width: medium 1px medium 0; border-color:#a9a9a9;}
+.rtl #main-header .header-search label:before {right: auto; left: 13px;}
+.rtl #main-header .header-search span {padding: 5px 0 0 16px; float: none!important; display: inline-block;}
+.rtl #main-header .sub-dropdown:before {right: 22px; left: auto;}
+.rtl #main-header .sub-dropdown {right: 0; left: auto;}
+.rtl #main-header .navigation ul ul ul {right: 102%; left: auto;}
+.rtl #main-header .logo:before {right: -8px; left: auto;}
+.rtl .flexslider .flex-pauseplay a {text-indent: 9999px;}
+.rtl .flexslider .flex-pauseplay {left: 37px; right: auto;}
+.rtl .flexslider .flex-direction-nav .flex-prev {left: 64px; right: auto;}
+.rtl .flexslider .flex-direction-nav .flex-next {left: 10px; right: auto;}
+.rtl .slider-caption a {left: 30px; right: auto;}
+.rtl .top-nav ul li a::before{left: auto; right: -2px;}
+.rtl .flexslider .flex-direction-nav .flex-prev, .rtl .flexslider .flex-direction-nav .flex-next, .rtl .cs-gallery-slider #slider .flex-direction-nav a,
+.rtl .widget_categories ul li a:before, .rtl .widget_list ul li a:before, .rtl .widget_nav_menu ul li a:before, .rtl .widget_archive ul li a:before, .rtl .widget_pages ul li a:before, .rtl .widget_meta ul li a:before,
+.rtl .cs-list .cs-iconlist li i, .rtl .cs-list .panel-heading .collapsed::before, .rtl .list-btn i, .rtl .suggestions ul li::before, .rtl .sitemap-links ul li::before {
+  -webkit-transform: scale(-1);
+      -moz-transform: scale(-1);
+       -ms-transform: scale(-1);
+        -o-transform: scale(-1);
+      transform: scale(-1);
+}
+.rtl .thumblist .comment-reply i{
+  -webkit-transform: scaleX(-1);
+      -moz-transform: scaleX(-1);
+       -ms-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+      transform: scaleX(-1);
+}
+.rtl .widget_categories ul li a:hover::before, .rtl .widget_list ul li a:hover::before, .rtl .widget_nav_menu ul li a:hover::before, .rtl .widget_archive ul li a:hover::before, 
+.rtl .widget_pages ul li a:hover::before, .rtl .widget_meta ul li a:hover::before, .rtl .cs-tabs .tab-content ul i, .rtl .cs-social-share li .cs-sharepost-btn i{
+  -webkit-transform: scalez(-1);
+      -moz-transform: scalez(-1);
+       -ms-transform: scalez(-1);
+        -o-transform: scalez(-1);
+      transform: scalez(-1);
+
+}
+.rtl .ticket-area{margin-left: 5px;}
+.rtl .cs-list .panel-heading a{padding: 0 22px 0 0;}
+.rtl .panel-group.cs-default.simple .panel-heading a::before{right: auto; left: 0px;}
+.rtl [class*="col-md"]{margin-left:-4px; margin-right:0px;}
+.rtl [class*="element-size"]{margin-left:-4px; margin-right:0px;}
+.rtl .event-editor .cs-gallery ul li{padding-left: 10px;}
+.rtl .get-enrole-button{margin-left: 10px;}
+.rtl a.pp_close, .rtl .pp_nav .pp_play, .rtl .pp_nav .pp_pause, .rtl a.pp_arrow_previous, .rtl a.pp_arrow_next, .rtl a.pp_expand, .rtl a.pp_contract, .rtl a.pp_next, .rtl a.pp_previous{text-indent: 10000px;}
+
+ 
+/*============  Home Style ============ */
+.rtl.news-ticker ul.slides li p {margin: 0 0 0 8px; padding: 0 20px 0 0;}
+.rtl .news-ticker .flex-direction-nav{left: 0; right: auto;}
+.rtl .cs-custom-nav .owl-nav {left: 8px; right: auto;}
+.rtl .news-info a.cs-readmore-btn i {margin: 5px 0 0 6px; transform: scale(-1); -moz-transform: scale(-1); -ms-transform: scale(-1); -o-transform: scale(-1); -webkit-transform: scale(-1);}
+.rtl .medium-news article figure figcaption {right: 14px; left: auto;}
+.rtl .medium-news article figure figcaption a i {margin: 3px 0 0 6px;}
+.rtl .cs-eventslider figcaption {right: 9px; left: auto;}
+.rtl .cs-eventslider figcaption time i {border-left: 1px solid rgba(0, 0, 0, 0.1); border-right: none; margin: 0 0 0 6px; padding: 6px 0 6px 6px;}
+.rtl .medium-news article figure ~ .news-info {padding: 30px 368px 0 25px}
+.rtl .cs-newslist article {background-position: 0 100%;}
+.rtl .cs-gallery-nav li {padding: 0 0 0 20px;}
+.rtl .cs-gallery-nav li:before {right: -15px; left: auto;}
+.rtl .cat-multicolor ul li a:before {margin: 0 0 0 10px;}
+.rtl .cs-campunews ul li figure ~ .cs-campus-info {padding: 0 92px 0 0;}
+.rtl .cs-campunews ul li time:before {right: 0; left: auto;}
+.rtl .cs-campunews ul li time {padding: 0 12px 0 0;}
+.rtl .viewall-btn i {display: inline-block; margin: 0 0 0 4px;}
+.rtl .search-course ul li i {right: 10px; left: auto;}
+.rtl .search-course ul li input[type="text"] {padding: 0 30px 0 0;}
+.rtl .select-style:before {left: 0; right: auto;}
+.rtl .select-style:after {right: auto; left: 8px;}
+.rtl .select-style select {padding: 3px 35px 3px 3px;}
+.rtl .search-course ul li input[type="submit"] {padding: 7px 36px 7px 17px; margin: 0 0 0 18px;}
+.rtl .call-actions {padding: 30px 30px 20px 0;}
+.rtl .newsletter-section span.newsletter-title {padding: 8px 0 0 30px;}
+.rtl .newsletter-section .newsletter-from i {right: 16px; left: auto;}
+.rtl .newsletter-section .newsletter-from input[type="text"] {padding: 0 45px 0 0;}
+.rtl .newsletter-section .newsletter-from input[type="submit"] {margin: 0 8px 0 0; display: inline-block; float: none!important;}
+.rtl #footer-widget .widget_text ul li {padding: 0 40px 18px 0;}
+.rtl #footer-widget .widget_text ul li i {left: auto; right: 0;}
+.rtl #footer-widget .widget_twitter ul li i {margin: 7px 0 0 6px;}
+.rtl #footer-widget .widget_twitter .thumb-twitter ~ figcaption {padding: 4px 15px 0 0;}
+.rtl #footer-widget .widget_twitter figcaption a i {display: inline-block; margin: 0 0 0 4px;}
+.rtl .bottom-footer .social-media h6 {margin: 11px 0 0 12px;}
+.rtl .bottom-footer #backtop {left: 100%; margin: 0 0 0 -10px;}
+.rtl #footer-widget .widget_cetegorie ul li a:before {margin: 0 0 0 10px;}
+.rtl .call-actions .call-action-inner{padding: 45px 20px 37px}
+.rtl .widget_categories ul li a:before, .rtl .widget_list ul li a:before, .rtl .widget_nav_menu ul li a:before, .rtl .widget_archive ul li a:before, 
+.rtl .widget_pages ul li a:before, .rtl .widget_meta ul li a:before, .rtl .page-sidebar .widget_categories ul li a::before{margin: 0 0 0 10px;}
+
+/* About Us Style */
+.rtl .image-frame.frame-plane section {padding: 30px 35px 28px 40px;}
+.rtl .cs-services.modren > figure ~ .text {padding: 0 110px 0 0;}
+.rtl .page-section {overflow: hidden;}
+.rtl .mejs-controls .mejs-play button, .mejs-controls .mejs-pause button {margin: 13px 14px 0 0;}
+.rtl .mejs-controls .mejs-fullscreen-button button {margin: 13px 12px 0 0;}
+.rtl .cs-courses.listing-view article figure ~ .cs-text{padding:0 277px 0 20px; }
+.rtl .cs-courses.listing-view.list-2 article figure ~ .cs-text{padding:0 277px 0 20px;}
+.rtl .cs-gallery.classic-gallery ul li{padding: 0 19px 15px 0;}
+
+/* Inner Style */
+.rtl .cs-blog-medium .blog-info-sec {padding: 0 35px 0 0;}
+.rtl .cs-blog .post-options li time:before {right: 0; left: auto;}
+.rtl .cs-blog .post-options li time {padding: 0 12px 0 0;}
+.rtl .cs-thumb-post figure {margin: 0 0 0 15px;}
+.rtl .cs-thumb-post ul li {margin: 0 0 0 29px;}
+.rtl .cs-thumb-post ul li i {display: inline-block;}
+.rtl .pagination li.pgprev img {margin: 0 0 0 13px;}
+.rtl .pagination li.pgnext img {margin: 0 13px 0 0;}
+.rtl .widget_cetegorie ul li a:before {margin: 0 0 0 10px;}
+.rtl .recentblog-nows article figure {margin: 0 0 0 13px;}
+.rtl .widget_twitter ul li i {margin: 0 0 0 6px;}
+.rtl .widget_twitter .thumb-twitter ~ figcaption {padding: 4px 15px 0 0;}
+.rtl .cs-blog .blog-text {padding: 0 85px 0 0;}
+.rtl .cs-blog .blog-bottom-sec {padding: 20px 24px 0 0;}
+.rtl .cs-blog .cs-comments {margin: 0 0 0 23px;}
+.rtl .cs-post-panel {padding: 0 86px 0 0;}
+.rtl blockquote {width: 112%; padding: 0 55px 32px 30px; margin: 26px -86px 34px 0; border-right: 4px solid #08387f; border-left: 1px solid #dadada;}
+.rtl .cs-social-share .cs-sharepost-btn {margin: 0 0 0 20px;}
+.rtl .cs-tags ul li i {display: inline-block; margin: 0 0 0 2px;}
+.rtl .cs-social-share li .social-media {right: 0; left: auto;}
+.rtl .cs-social-share li .social-media:before {right: 53px; left: auto;}
+.rtl .cs-attachment ul li {margin: 0 0 0 10px;}
+.rtl .cs-attachment ul li a figure i {margin: -9px -8px 0 0;}
+.rtl .thumblist figure {margin: 0 0 0 26px;}
+.rtl .thumblist .cs-text-box {padding: 0 86px 0 0;}
+.rtl .thumblist .cs-text-box header h6 {margin: 0 0 0 9px;}
+.rtl .thumblist .comment-reply {margin: -15px 10px 0 0;}
+.rtl #cs-comments li .children {padding: 0 57px 0 0;}
+.rtl .cs-contact-info ul li i ~ span {padding: 0 15px 0 0;}
+.rtl .comment-respond::before, .rtl .cs-plain-form .form-style::before {right: 40px; left: auto;}
+.rtl #cs-comments .li-comment:nth-child(2n)::before{left: auto; right: 40px;}
+.rtl .cs-plain-form input[type="submit"] {margin: 0 10px 0 0; right: 50%; left: auto;}
+.rtl .cs-plain-form .textaera-sec {left: 0; right: auto; padding: 0 10px 0 30px;}
+.rtl .cs-plain-form label i {right: 10px; left: auto;}
+.rtl .cs-plain-form label input[type="text"], .cs-plain-form label input[type="email"] {padding: 0 35px 0 0;}
+.rtl .cs-opening ul li .timehoure .time-start i {margin: 6px 0 0 15px;}
+.rtl .cs-opening:before {right: -35px; left: auto;}
+.rtl .cs-contact-info.has-border ul::before {right: -20px; left: auto;}
+.rtl .call-actions {padding: 30px 30px 20px 0;}
+.rtl .cs-filterable .cs-sort .select-holder:before {right: 0; left: auto;}
+.rtl .cs-filterable .cs-sort .select-holder:after {left: 0; right: auto;}
+.rtl .cs-filterable .cs-sort li {margin: 0 0 0 14px;}
+.rtl .cs-course-table .cs-courses.listing-view article figure ~ .cs-text {padding: 0 175px 0 0px;}
+.rtl .cs-courses.listing-view article figure .course-num:after {right: -4px; left: auto;}
+.rtl .cs-courses.listing-view .course-info li {padding: 0 12px 0 22px; border-right: 1px dotted #cbcbcb; border-left: none;vertical-align: top;}
+.rtl .cs-courses.listing-view .course-info li:first-child {padding: 0 0 0 22px; border-right: none;}
+.rtl .cs-courses.listing-view .course-info figure {margin: 0 0 0 10px;}
+.rtl .fc-toolbar {right: 0; left: auto;}
+.rtl .fc-view-container {padding: 0 0px 0 0;}
+.rtl .fc-basic-view td.fc-week-number span, .fc-basic-view td.fc-day-number {padding-left: 12px; padding-right: 0;}
+.rtl .cs-detail-area .detail-block {padding: 0 20px 0 0;}
+.rtl .cs-detail-area .start-date i, .cs-detail-area .timing i {margin: 0 0 0 10px;}
+.rtl .cs-detail-area .timing span {margin: 1px 6px 0 0;}
+.rtl .cs-detail-area .address-box address {padding: 0 20px 0 0;}
+.rtl .cs-course-detail .cs-features .feat-detail { margin: 0 20px 0 0;}
+.rtl .cs-tabs .tab-content ul i {margin: 0 0 0 8px;}
+.rtl .cs-document-list li {margin: 0 10px 10px 0;}
+.rtl .cs-filter-menu li .slect-area:before {left: 0; right: auto;}
+.rtl .cs-filter-menu {float: right!important;}
+.rtl .cs-filter-menu li .slect-area i {left: auto; right: 10px;}
+.rtl .cs-filter-menu li .slect-area select {padding: 0 35px 0 0;}
+.rtl .cs-filter-menu li .slect-area {margin: 0 20px 0 0;}
+.rtl .events-listing .date-time ~ section {padding: 0 100px 0 0;}
+.rtl .post-options li {margin: 0 0 0 15px;}
+.rtl .post-options li i {margin: 8px 0 0 9px;}
+.rtl .categories li a {margin: 0 0 0 3px;}
+.rtl .categories li a i {margin: 0 0 0 9px; display: inline-block;}
+.rtl .events-listing .right-side {float: left!important;}
+.rtl .events-grid figure figcaption .text {right: 10px; left: auto;}
+.rtl .events-grid .text time i {right: 0; left: auto;}
+.rtl .events-grid .text time {padding: 3px 30px 5px 10px;}
+.rtl.events-listing figure ~ section {padding: 0 185px 0 0;}
+.rtl .event-editor .socialmedia a {margin: 0 0 0 10px;}
+.rtl .socialmedia a i {margin: 2px 0 0 5px;}
+.rtl .add-calender:before {right: 5px; left: auto;}
+.rtl .event-editor .socialmedia a.add-calender {padding: 2px 25px 3px 8px;}
+.rtl .event-timeline article:before {left: auto; right: 0;}
+.rtl .event-timeline article {padding: 0 25px 0 0;}
+.rtl .event-timeline article p:before {right: -18px; left: auto;}
+.rtl .cs-team.cs-teamgrid article {padding: 0 20px 0 0;}
+.rtl .cs-team.cs-teamgrid {margin: 0 -15px 0 0;}
+.rtl .cs-teamgrid .text span:before {left: auto; right: 0;}
+.rtl .cs-teamgrid .text span {padding: 0 13px 0 0;}
+.rtl .cs-teamgrid figure:before {right: 35px; left: auto;}
+.rtl .panel-group.cs-default.simple .panel-heading a.collapsed:before, .panel-group.cs-default.simple .panel-heading a:before {left: 0; right: auto;}
+.rtl .list-btn i {margin: 4px 0 0 6px;}
+.rtl .cs-list .panel-heading a:before {right: 0; left: auto;}
+.rtl.cs-list .cs-default .panel-title a {padding: 0 20px 0 0;}
+.rtl .cs-list .cs-default .panel-body {padding: 0 20px 0 0;}
+.rtl .cs-list .cs-default .panel-body ul {padding: 0 15px 0 0; border-left: none; border-right: 1px solid #e8e8e8;}
+.rtl .cs-list .cs-linked-list li i {margin: 0 0 0 10px; display: inline-block;}
+.rtl .cs-list .cs-iconlist li i {display: inline-block; margin: 0 0 0 10px;}
+.rtl .cs-question-list ul li a i {margin: 8px 0 0 10px;}
+.rtl .cs-search-results ul li figure ~ .text {padding: 0 160px 0 0;}
+.rtl .sitemap-links ul li:before, .rtl .suggestions ul li:before {left: auto; right: 0; top:5px;}
+.rtl .suggestions ul li:before{top: 5px;}
+.rtl .sitemap-links ul li, .suggestions ul li {padding: 0 15px 0 0;}
+.rtl .page-no-search .cs-search-area label:before {left: auto; right: 22px;}
+.rtl .page-no-search .cs-search-area label {margin: 0 10px 0 0;}
+.rtl .media-left, .media > .pull-left {padding: 0 0 0 29px;}
+.rtl .contactdiv ul li {margin: 0 0 0 20px;}
+.rtl .cs-team-slider .graybackground .media .media-body .contactdiv ul li {margin: 0 0 0 20px !important;}
+.rtl .cs-team-slider .graybackground .media .media-body .contactdiv ul, .rtl .cs-team-slider .graybackground .media .media-body .social-media-blog ul {margin: 0 0 0 20px;}
+.rtl .cs-team-slider .graybackground .media .media-body .social-media-blog ul li{margin: 0 0 0 5px !important;}
+.rtl .social-media-blog ul ul{margin: 0 ;}
+.rtl .search-course .select-style select {padding: 3px 30px 3px 35px;}
+.rtl .emaildiv span {display: inline-block; padding: 0 0 0 10px;}
+.rtl .marginleft {padding: 0 0 0 15px;}
+.rtl .customcolor {display: inline-block;}
+.rtl .viewstudent a {padding: 0 2px 0 0;}
+.rtl .overlaytext:after {right: 33px; left: auto;}
+.rtl .marginleft {padding: 0 0 0 15px;}
+.rtl .cs-tabs.box .nav-tabs li:first-child a {border-right: 1px solid #e6e6e6; border-left: none;}
+.rtl .cs-tabs.box .nav-tabs li a {border-width: 1px 0 1px 1px;}
+.rtl .cs-campunews ul li figure ~ .cs-campus-info {padding: 0 92px 0 0;}
+.rtl .cs-campunews ul li time:before {right: 0; left: auto;}
+.rtl .cs-campunews ul li time {padding: 0 12px 0 0;}
+.rtl .viewall-btn i {display: inline-block; margin: 0 0 0 5px;}
+.rtl .cat-multicolor ul li a:before {margin: 0 0 0 10px;}
+.rtl .cs-gallery.plain figcaption span {margin: 0 10px 0 0;}
+.rtl .cs-services.cs-classic.left figure {margin: 0 0 0 25px;}
+.rtl .skills-sec small {left: -10px; right: auto;}
+.rtl .skillbar .skillbar-bar:after {left: -10px; right: auto; border-left: 8px solid transparent; border-right: none;}
+.rtl .contactdiv_detail ul li {margin: 0 0 0 20px;}
+.rtl .contactdiv_detail ul li ul li {margin: 0 0 0 6px;}
+.rtl .detaillisting li:before {margin: 2px 0 0 9px;}
+.rtl .timeline > li .timeline-image {right: -2px; left: auto;}
+.rtl .timeline > li {margin: 0 45px 0 0;}
+.rtl .timeline:before {margin: 0 8px 0 0;}
+.rtl .widget.widget_search .cs-search-area label {left: 0; right: auto;}
+.rtl .widget.widget_search form label input[type="submit"] {border-radius: 4px 0 0 4px;}
+.rtl .widget_cetegorie ul li a:before, .rtl .widget_list ul li a:before, 
+.rtl .widget_nav_menu ul li a:before, .rtl .widget_archive ul li a:before, 
+.rtl .widget_pages ul li a:before, .rtl .widget_meta ul li a:before {margin: 0 0 0 10px;}
+.rtl .widget_text ul li i {right: 0; left: auto;}
+.rtl .widget_text ul li {padding: 0 40px 18px 0;}
+.rtl .widget-courses article figure {margin: 0 0 0 13px;}
+.rtl .widget-courses article figure ~ .cs-text {padding: 0 93px 0 0;}
+.rtl .widget-online-poll .inner-sec ul li {padding: 3px 15px 3px 0}
+.rtl .widget-online-poll .inner-sec ul li a:before {margin: 9px 0 0 9px;}
+.rtl .widget-team article figure {margin: 0 0 0 13px;}
+.rtl .cs-team-slider .flex-direction-nav {left: 0; right: auto;}
+.rtl .cs-team-slider .graybackground .media .media-body{text-align: right}
+.rtl .content-area .cs-text {direction: rtl;}
+.rtl .content-area .cs-text .cs-email a i {display: inline-block; margin: 0 0 0 6px;}
+.rtl .social-media ul li {margin: 0 5px 0 0;}
+.rtl .search-course ul li i {right: 10px; left: auto;}
+.rtl .search-course ul li input[type="text"] {padding: 0 35px 0 0;}
+.rtl .select-style select {padding: 3px 3px 3px 35px;}
+.rtl .search-course ul li input[type="submit"] {padding: 7px 36px 7px 17px; margin: 0 0 0 18px;}
+.rtl .select-style:before {left: 0; right: auto;}
+.rtl .select-style:after {right: auto; left: 8px;}
+.rtl .widget .search-course ul li.search-submit i {right: 66px; left: auto;}
+.rtl .widget-team article figure {margin: 0 0 0 13px;}
+.rtl .cs-team-slider .flex-direction-nav, .testimonial-slider .flex-direction-nav {left: 0; right: auto;}
+.rtl .media {direction: rtl;}
+.rtl .cs-gallery.plain figcaption span {margin: 0 10px 0 0;}
+.rtl .pricing-area .price-big {margin: 0 0 0 30px;}
+.rtl .pricing-area .price-big div:nth-child(1) {margin: 0 -10px 0 0;}
+.rtl .thumbcontactdiv .emaildiv span {padding: 0 0 0 10px; display: inline-block;}
+.rtl .media-left, .media > .pull-left {padding: 0 0 0 29px;}
+.rtl .contactdiv_detail ul li {margin: 0 0 0 20px;}
+.rtl .detaillisting li:before {margin: 2px 0 0 9px;}
+.rtl .timeline > li {margin: 0 45px 15px 0;}
+.rtl .timeline > li .timeline-image {right: -2px; left: auto;}
+.rtl .timeline:before {margin: 0 8px 0 0;}
+.rtl .widget-team article .cs-text a.email i {margin: 0 0 0 6px; display: inline-block;}
+
+.rtl .flex-viewport {direction: ltr;}
+.rtl .cs-gallery-slider #slider .flex-pauseplay {left: 37px; right: auto;}
+.rtl .cs-gallery-slider #slider .flex-direction-nav .flex-prev {left: 64px; right: auto;}
+.rtl .cs-gallery-slider #slider .flex-direction-nav .flex-next {left: 10px; right: auto;}
+.rtl .cs-main-filterable .cs-filter-nav li a i {margin: 0 0 0 7px;}
+.rtl .cs-main-filterable .cs-filter-nav li:first-child {margin: 0 0 0 10px;}
+.rtl .cs-gallery.classic-gallery ul {margin: 0 -18px 0 0;}
+.rtl .mejs-controls .mejs-fullscreen-button button {margin: 13px 12px 0 0;}
+.rtl .mejs-controls .mejs-play button, .mejs-controls .mejs-pause button {margin: 13px 14px 0 0;}
+.rtl .testimonial-slider .flex-direction-nav {left: 15px; right: auto;}
+.rtl .responsive-btn i{padding:13px 0px 0 10px }
+.rtl ul ul{margin: 0 20px 0 0;}
+.rtl .page-no-search .cs-search-area input[type="text"]{padding-left: 0px; padding-right: 15px;}
+.rtl .page-no-search .cs-search-area input[type="submit"]{padding: 8px 40px 8px 30px;}
+.rtl .cs-courses.listing-view .course-info i{margin-top: 10px;}
+
+.rtl .cs-courses.listing-view .course-info li {vertical-align: top;}
+.rtl .under-wrapp .is-countdown:before{right: -2px;left:auto;}

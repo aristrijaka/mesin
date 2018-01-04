@@ -1,0 +1,1206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CS Framework\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Jun 19 2015 10:35:27 GMT+0500 (Pakistan Standard "
+"Time)\n"
+"PO-Revision-Date: Thu Aug 13 2015 14:26:21 GMT+0500 (Pakistan Standard Time)\n"
+"Last-Translator: admin <admin@gmail.com>\n"
+"Language-Team: \n"
+"Language: Arabic\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: ar_AE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../include/meta-boxes/form_meta_fields.php:875
+msgid "<i class=\"icon-times\"></i>"
+msgstr ""
+
+#: ../include/meta-boxes/team_meta.php:357 ../include/meta-boxes/team_meta.php:427
+msgid "Percentage"
+msgstr "نسبة مئوية"
+
+#: ../include/meta-boxes/team_meta.php:445
+msgid "Update Skill"
+msgstr "تحديث المهارة"
+
+#: ../include/meta-boxes/team_meta.php:549 ../include/meta-boxes/team_meta.php:647
+msgid "Image"
+msgstr "صورة"
+
+#: ../include/post-types/gallery.php:166
+msgid "Read more"
+msgstr "اقرأ المزيد"
+
+#: ../templates/course/course-modern.php:129
+msgid "No Event found."
+msgstr "لا يوجد احداث ."
+
+#: ../templates/events/event-list.php:125
+msgid "Speakers:"
+msgstr "المتحدثون:"
+
+#: ../templates/gallery-styles/gallery-slider.php:54
+msgid "Read More"
+msgstr "اقرأ المزيد"
+
+#: ../templates/gallery-styles/gallery-video.php:44
+msgid "1"
+msgstr ""
+
+#: ../templates/gallery-styles/gallery-video.php:44
+msgid "%"
+msgstr ""
+
+#: ../templates/gallery-styles/gallery_element.php:84
+msgid "Gallery Slider"
+msgstr "معرض المتزلج"
+
+#: ../templates/teams/team_element.php:77
+msgid "simple"
+msgstr "بسيط"
+
+#: ../include/meta-boxes/campus_meta.php:18
+msgid "Campus Options"
+msgstr "خيارات الحرم الجامعي"
+
+#: ../include/meta-boxes/campus_meta.php:38 ../include/meta-boxes/course_meta.php:
+#: 38 ../include/meta-boxes/event_meta.php:38 ../include/meta-boxes/team_meta.php:
+#: 37
+msgid "Sub Header"
+msgstr "رأس الباطن"
+
+#: ../include/meta-boxes/campus_meta.php:43 ../include/meta-boxes/course_meta.php:
+#: 43 ../include/meta-boxes/event_meta.php:43 ../include/meta-boxes/team_meta.php:
+#: 42
+msgid "Header Absolute"
+msgstr "رأس المطلق"
+
+#: ../include/meta-boxes/campus_meta.php:46 ../include/meta-boxes/course_meta.php:
+#: 46 ../include/meta-boxes/event_meta.php:46 ../include/meta-boxes/team_meta.php:
+#: 45
+msgid "Seo Options"
+msgstr "خيارات سيو"
+
+#: ../include/meta-boxes/campus_meta.php:50 ../include/meta-boxes/event_meta.php:50
+msgid "Location"
+msgstr "موقع"
+
+#: ../include/meta-boxes/campus_meta.php:80 ../include/meta-boxes/course_meta.php:
+#: 127 ../include/meta-boxes/event_meta.php:129
+msgid "Location Map"
+msgstr "خريطة الموقع"
+
+#: ../include/meta-boxes/campus_meta.php:88 ../templates/course/single-course.php:
+#: 159
+msgid "Campus Location"
+msgstr "موقع الحرم الجامعي"
+
+#: ../include/meta-boxes/campus_meta.php:93 ../include/meta-boxes/course_meta.php:
+#: 140 ../include/meta-boxes/event_meta.php:142 ../include/meta-boxes/team_meta.
+#: php:125
+msgid "Address"
+msgstr "عنوان"
+
+#: ../include/meta-boxes/campus_meta.php:103
+msgid "latitude"
+msgstr "خط العرض"
+
+#: ../include/meta-boxes/campus_meta.php:113
+msgid "longitude"
+msgstr "خط الطول"
+
+#: ../include/meta-boxes/campus_meta.php:122 ../include/meta-boxes/course_meta.
+#: php:149 ../include/meta-boxes/event_meta.php:151
+msgid "City / Town"
+msgstr "المدينة / البلدة"
+
+#: ../include/meta-boxes/campus_meta.php:131 ../include/meta-boxes/course_meta.
+#: php:158 ../include/meta-boxes/event_meta.php:160
+msgid "Post Code"
+msgstr "الرمز البريدي"
+
+#: ../include/meta-boxes/campus_meta.php:140 ../include/meta-boxes/course_meta.
+#: php:167 ../include/meta-boxes/event_meta.php:169
+msgid "Region"
+msgstr "منطقة"
+
+#: ../include/meta-boxes/campus_meta.php:156 ../include/meta-boxes/course_meta.
+#: php:182 ../include/meta-boxes/event_meta.php:183
+msgid "Country"
+msgstr "بلد"
+
+#: ../include/meta-boxes/campus_meta.php:169 ../include/meta-boxes/course_meta.
+#: php:195 ../include/meta-boxes/event_meta.php:196
+msgid "Search This Location on Map"
+msgstr "ابحث في هذا الموقع على الخريطة"
+
+#: ../include/meta-boxes/course_meta.php:18 ../include/meta-boxes/course_meta.php:
+#: 51
+msgid "Course Options"
+msgstr "خيارات بالطبع"
+
+#: ../include/meta-boxes/course_meta.php:34 ../include/meta-boxes/event_meta.php:34
+msgid "General"
+msgstr "عام"
+
+#: ../include/meta-boxes/course_meta.php:100 ../include/meta-boxes/event_meta.php:
+#: 102
+msgid "Social Sharing"
+msgstr "المشاركة الأجتماعية"
+
+#: ../include/meta-boxes/course_meta.php:109 ../include/meta-boxes/event_meta.php:
+#: 111 ../include/post-types/events.php:174
+msgid "Tags"
+msgstr "الكلمات"
+
+#: ../include/meta-boxes/course_meta.php:135 ../include/meta-boxes/event_meta.php:
+#: 137
+msgid "Event Location"
+msgstr "موقع الحدث"
+
+#: ../include/meta-boxes/course_meta.php:291
+msgid "Course Schedule"
+msgstr "الجدول الدراسي"
+
+#: ../include/meta-boxes/course_meta.php:300
+msgid "Course Start Date"
+msgstr "بالطبع تاريخ بدء"
+
+#: ../include/meta-boxes/course_meta.php:309
+msgid "Course End Date"
+msgstr "بالطبع تاريخ الانتهاء"
+
+#: ../include/meta-boxes/course_meta.php:319 ../include/meta-boxes/event_meta.php:
+#: 314 ../include/meta-boxes/event_meta.php:338 ../include/meta-boxes/event_meta.
+#: php:356 ../include/meta-boxes/event_meta.php:376
+msgid "Wrapper"
+msgstr "إزار"
+
+#: ../include/meta-boxes/course_meta.php:325
+msgid "Course Start Time"
+msgstr "بالطبع وقت البدء"
+
+#: ../include/meta-boxes/course_meta.php:335
+msgid "Course End Time"
+msgstr "بالطبع نهاية الوقت"
+
+#: ../include/meta-boxes/course_meta.php:345
+msgid "Course Descriptions"
+msgstr "بالطبع أوصاف"
+
+#: ../include/meta-boxes/course_meta.php:354
+msgid "Course Duration"
+msgstr "مدة الدورة"
+
+#: ../include/meta-boxes/course_meta.php:363
+msgid "Course Code"
+msgstr "رمز المقرر"
+
+#: ../include/meta-boxes/course_meta.php:374
+msgid "Degree Level"
+msgstr "مستوى درجة"
+
+#: ../include/meta-boxes/course_meta.php:384
+msgid "Degree Level Background Color"
+msgstr "درجة اللون مستوى الخلفية"
+
+#: ../include/meta-boxes/course_meta.php:418
+msgid "Select Instructor"
+msgstr "حدد المدرب"
+
+#: ../include/meta-boxes/course_meta.php:426
+msgid "Instructors"
+msgstr "المدربين"
+
+#: ../include/meta-boxes/course_meta.php:438
+msgid "Select Campus"
+msgstr "حدد الحرم الجامعي"
+
+#: ../include/meta-boxes/course_meta.php:447 ../include/post-types/campus.php:97 .
+#: ./include/post-types/campus.php:98
+msgid "Campus"
+msgstr "حرم الجامعة"
+
+#: ../include/meta-boxes/course_meta.php:459
+msgid "Price Option"
+msgstr "سعر الخيار"
+
+#: ../include/meta-boxes/course_meta.php:467 ../include/meta-boxes/course_meta.
+#: php:507 ../include/meta-boxes/course_meta.php:535 ../include/meta-
+#: boxes/course_meta.php:605 ../include/meta-boxes/course_meta.php:632 ..
+#: include/meta-boxes/course_meta.php:670 ../include/meta-boxes/course_meta.php:
+#: 711 ../include/meta-boxes/course_meta.php:794 ../include/meta-boxes/event_meta.
+#: php:410 ../include/meta-boxes/event_meta.php:454 ../include/meta-
+#: boxes/event_meta.php:514 ../include/meta-boxes/event_meta.php:601 ..
+#: include/meta-boxes/event_meta.php:638 ../include/meta-boxes/event_meta.php:
+#: 705 ../include/meta-boxes/team_meta.php:309 ../include/meta-boxes/team_meta.
+#: php:346 ../include/meta-boxes/team_meta.php:414 ../include/meta-
+#: boxes/team_meta.php:486 ../include/meta-boxes/team_meta.php:527 ..
+#: include/meta-boxes/team_meta.php:621
+msgid "Title"
+msgstr "عنوان"
+
+#: ../include/meta-boxes/course_meta.php:470
+msgid "Apply Now "
+msgstr "قدم الآن"
+
+#: ../include/meta-boxes/course_meta.php:476 ../include/meta-boxes/event_meta.php:
+#: 419
+msgid "Url"
+msgstr "رابط"
+
+#: ../include/meta-boxes/course_meta.php:485
+msgid "Course Price"
+msgstr "بالطبع الأسعار"
+
+#: ../include/meta-boxes/course_meta.php:498
+msgid "Tabs Shortcode"
+msgstr "علامات التبويب رمز قصير"
+
+#: ../include/meta-boxes/course_meta.php:517
+msgid "Add Tab Shortcode"
+msgstr "إضافة علامة تبويب رمز قصير"
+
+#: ../include/meta-boxes/course_meta.php:527
+msgid "Team Slider Title"
+msgstr "فريق المتزلج العنوان"
+
+#: ../include/meta-boxes/course_meta.php:553
+msgid "Team"
+msgstr "فريق"
+
+#: ../include/meta-boxes/course_meta.php:585 ../include/meta-boxes/course_meta.
+#: php:594 ../include/meta-boxes/course_meta.php:615
+msgid "Attachments"
+msgstr "مرفقات"
+
+#: ../include/meta-boxes/course_meta.php:623
+msgid "Course Features"
+msgstr "الميزات بالطبع"
+
+#: ../include/meta-boxes/course_meta.php:635
+msgid "Course Feature"
+msgstr "بالطبع ميزة"
+
+#: ../include/meta-boxes/course_meta.php:664 ../include/meta-boxes/course_meta.
+#: php:750
+msgid "Add Course Feature"
+msgstr "إضافة دورة ميزة"
+
+#: ../include/meta-boxes/course_meta.php:671 ../include/meta-boxes/event_meta.php:
+#: 602 ../include/meta-boxes/team_meta.php:310 ../include/meta-boxes/team_meta.
+#: php:487
+msgid "Actions"
+msgstr "تطبيقات"
+
+#: ../include/meta-boxes/course_meta.php:706
+msgid "Course Feature Setting"
+msgstr "بالطبع إعداد تقرير اخبارى"
+
+#: ../include/meta-boxes/course_meta.php:723 ../include/meta-boxes/course_meta.
+#: php:807 ../include/meta-boxes/event_meta.php:649 ../include/meta-
+#: boxes/event_meta.php:718 ../include/meta-boxes/team_meta.php:208 ..
+#: include/meta-boxes/team_meta.php:560 ../include/meta-boxes/team_meta.php:660
+msgid "Description"
+msgstr "وصف"
+
+#: ../include/meta-boxes/course_meta.php:735 ../include/meta-boxes/course_meta.
+#: php:820
+msgid "Select icon"
+msgstr "حدد رمز"
+
+#: ../include/meta-boxes/course_meta.php:789
+msgid "Course Feature Settings"
+msgstr "إعدادات بالطبع ميزة"
+
+#: ../include/meta-boxes/course_meta.php:839
+msgid "Update Course Feature"
+msgstr "تقرير اخبارى دورة التحديث"
+
+#: ../include/meta-boxes/event_meta.php:18 ../include/meta-boxes/event_meta.php:51
+msgid "Event Options"
+msgstr "خيارات الحدث"
+
+#: ../include/meta-boxes/event_meta.php:287
+msgid "Event Start Date"
+msgstr "الحدث بدء التسجيل"
+
+#: ../include/meta-boxes/event_meta.php:296
+msgid "Event End Date"
+msgstr "الحدث تاريخ الانتهاء"
+
+#: ../include/meta-boxes/event_meta.php:305
+msgid "All Day"
+msgstr "طوال اليوم"
+
+#: ../include/meta-boxes/event_meta.php:320
+msgid "Event Start Time"
+msgstr "الحدث وقت البدء"
+
+#: ../include/meta-boxes/event_meta.php:329
+msgid "Event End Time"
+msgstr "الحدث نهاية الوقت"
+
+#: ../include/meta-boxes/event_meta.php:345
+msgid "Repeat"
+msgstr "كرر"
+
+#: ../include/meta-boxes/event_meta.php:349 ../include/meta-boxes/event_meta.php:
+#: 365
+msgid "Repeat how many time"
+msgstr "كرر كم من الوقت"
+
+#: ../include/meta-boxes/event_meta.php:352
+msgid "-- Never Repeat --"
+msgstr "- أبدا، كرر -"
+
+#: ../include/meta-boxes/event_meta.php:352
+msgid "Every Day"
+msgstr "كل يوم"
+
+#: ../include/meta-boxes/event_meta.php:352
+msgid "Every Week"
+msgstr "كل اسبوع"
+
+#: ../include/meta-boxes/event_meta.php:352
+msgid "Every Month"
+msgstr "كل شهر"
+
+#: ../include/meta-boxes/event_meta.php:382
+msgid "Ticket Option"
+msgstr "الخيار تذكرة"
+
+#: ../include/meta-boxes/event_meta.php:394
+msgid "Status"
+msgstr "الحالة"
+
+#: ../include/meta-boxes/event_meta.php:428
+msgid "Ticket Price"
+msgstr "سعر التذكرة"
+
+#: ../include/meta-boxes/event_meta.php:446
+msgid "Team Shortcode"
+msgstr "رمز قصير فريق"
+
+#: ../include/meta-boxes/event_meta.php:457
+msgid "Event Ticket Price"
+msgstr "الحدث أسعار التذاكر"
+
+#: ../include/meta-boxes/event_meta.php:463
+msgid "Add Team Shortcode"
+msgstr "إضافة فريق رمز قصير"
+
+#: ../include/meta-boxes/event_meta.php:474 ../include/meta-boxes/event_meta.php:
+#: 483 ../include/meta-boxes/event_meta.php:488
+msgid "Gallery"
+msgstr "رواق"
+
+#: ../include/meta-boxes/event_meta.php:495
+msgid "Add Gallery Images"
+msgstr "إضافة معرض الصور"
+
+#: ../include/meta-boxes/event_meta.php:505 ../include/meta-boxes/event_meta.php:
+#: 517
+msgid "Built Process"
+msgstr "عملية المبنية"
+
+#: ../include/meta-boxes/event_meta.php:548
+msgid "Event Speaker"
+msgstr "الحدث رئيس"
+
+#: ../include/meta-boxes/event_meta.php:557
+msgid "Speaker"
+msgstr "المتحدث"
+
+#: ../include/meta-boxes/event_meta.php:568
+msgid "Repeat Access"
+msgstr "كرر الوصول"
+
+#: ../include/meta-boxes/event_meta.php:595
+msgid "Add Built Process"
+msgstr "إضافة عملية بنيت"
+
+#: ../include/meta-boxes/event_meta.php:634
+msgid "Built Process Setting"
+msgstr "إعداد عملية بنيت"
+
+#: ../include/meta-boxes/event_meta.php:700
+msgid "Built Process Settings"
+msgstr "إعدادات عملية بنيت"
+
+#: ../include/meta-boxes/event_meta.php:736
+msgid "Update Built Process"
+msgstr "تحديث بنيت عملية"
+
+#: ../include/meta-boxes/form_meta_fields.php:276
+msgid "Full Width"
+msgstr "عرض كامل"
+
+#: ../include/meta-boxes/form_meta_fields.php:285
+msgid "Sidebar Right"
+msgstr "الحق في الشريط الجانبي"
+
+#: ../include/meta-boxes/form_meta_fields.php:294
+msgid "Sidebar Left"
+msgstr "الشريط الجانبي الأيسر"
+
+#: ../include/meta-boxes/form_meta_fields.php:629 ../include/meta-
+#: boxes/form_meta_fields.php:991
+msgid "Browse"
+msgstr "تصفح"
+
+#: ../include/meta-boxes/form_meta_fields.php:875
+msgid "Delete image"
+msgstr "حذف صورة"
+
+#: ../include/meta-boxes/form_meta_fields.php:886 ../include/meta-
+#: boxes/form_meta_fields.php:886
+msgid "Delete"
+msgstr "حذف"
+
+#: ../include/meta-boxes/team_meta.php:18 ../include/meta-boxes/team_meta.php:49
+msgid "Team Options"
+msgstr "خيارات الفريق"
+
+#: ../include/meta-boxes/team_meta.php:95
+msgid "Department"
+msgstr "قسم"
+
+#: ../include/meta-boxes/team_meta.php:106 ../include/meta-boxes/team_meta.php:
+#: 538 ../include/meta-boxes/team_meta.php:634
+msgid "Position"
+msgstr "موقف"
+
+#: ../include/meta-boxes/team_meta.php:116
+msgid "Phone"
+msgstr "هاتف"
+
+#: ../include/meta-boxes/team_meta.php:134 ../templates/course/single-course.php:
+#: 337 ../templates/teams/single-team.php:125 ../templates/teams/team-grid.php:71
+#: ../templates/teams/team-list.php:78 ../templates/teams/team-listing.php:79 ..
+#: templates/teams/team-slider.php:91
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: ../include/meta-boxes/team_meta.php:144
+msgid "Facebook"
+msgstr "الفيسبوك"
+
+#: ../include/meta-boxes/team_meta.php:153
+msgid "Twitter"
+msgstr "تغريد"
+
+#: ../include/meta-boxes/team_meta.php:162
+msgid "Google Plus"
+msgstr "جوجل بلس"
+
+#: ../include/meta-boxes/team_meta.php:171
+msgid "Linkedin"
+msgstr "ينكدين"
+
+#: ../include/meta-boxes/team_meta.php:180 ../include/meta-boxes/team_meta.php:188
+msgid "Job Specifications"
+msgstr "المواصفات وظيفة"
+
+#: ../include/meta-boxes/team_meta.php:193
+msgid "Job Specification"
+msgstr "مواصفات وظيفة"
+
+#: ../include/meta-boxes/team_meta.php:199
+msgid "Sub Title"
+msgstr "العنوان الفرعي"
+
+#: ../include/meta-boxes/team_meta.php:219
+msgid "Experience"
+msgstr "تجربة"
+
+#: ../include/meta-boxes/team_meta.php:228
+msgid "List"
+msgstr "قائمة"
+
+#: ../include/meta-boxes/team_meta.php:232
+msgid "Press enter after entering a list item"
+msgstr "دخول الصحافة بعد دخول عنصر قائمة"
+
+#: ../include/meta-boxes/team_meta.php:239
+msgid "Experience and Expertise"
+msgstr "التجربة والخبرة"
+
+#: ../include/meta-boxes/team_meta.php:248
+msgid "Skills"
+msgstr "المهارات"
+
+#: ../include/meta-boxes/team_meta.php:253
+msgid "Experience and Skills"
+msgstr "الخبرات و المهارات"
+
+#: ../include/meta-boxes/team_meta.php:263 ../include/meta-boxes/team_meta.php:
+#: 272 ../include/meta-boxes/team_meta.php:277
+msgid "Testimonials"
+msgstr "الشهادات"
+
+#: ../include/meta-boxes/team_meta.php:303 ../include/meta-boxes/team_meta.php:370
+msgid "Add Skill"
+msgstr "إضافة المهارة"
+
+#: ../include/meta-boxes/team_meta.php:342
+msgid "Skills Setting"
+msgstr "تحديد المهارات"
+
+#: ../include/meta-boxes/team_meta.php:409
+msgid "Skills Settings"
+msgstr "إعدادات المهارات"
+
+#: ../include/meta-boxes/team_meta.php:480 ../include/meta-boxes/team_meta.php:573
+msgid "Add Testimonial"
+msgstr "إضافة التزكية"
+
+#: ../include/meta-boxes/team_meta.php:523
+msgid "Testimonials Setting"
+msgstr "شهادات وضع"
+
+#: ../include/meta-boxes/team_meta.php:616
+msgid "Testimonials Settings"
+msgstr "إعدادات الشهادات"
+
+#: ../include/meta-boxes/team_meta.php:678
+msgid "Update Testimonial"
+msgstr "تحديث التزكية"
+
+#: ../include/post-types/campus.php:27 ../include/post-types/course.php:25 ..
+#: include/post-types/events.php:25
+msgid "Start Date"
+msgstr "تاريخ البدء"
+
+#: ../include/post-types/campus.php:28 ../include/post-types/course.php:26 ..
+#: include/post-types/events.php:26
+msgid "End Date"
+msgstr "تاريخ الانتهاء"
+
+#: ../include/post-types/campus.php:29 ../include/post-types/course.php:27 ..
+#: include/post-types/events.php:27
+msgid "Timing"
+msgstr "توقيت"
+
+#: ../include/post-types/campus.php:78 ../include/post-types/course.php:78 ..
+#: include/post-types/events.php:76
+msgid "All day"
+msgstr "طوال اليوم"
+
+#: ../include/post-types/campus.php:99 ../include/post-types/campus.php:102
+msgid "Add New Campus"
+msgstr "إضافة الحرم الجامعي الجديد"
+
+#: ../include/post-types/campus.php:100
+msgid "Edit Campus"
+msgstr "تحرير الحرم الجامعي"
+
+#: ../include/post-types/campus.php:101
+msgid "New Campus Item"
+msgstr "جديدة الحرم الجامعي البند"
+
+#: ../include/post-types/campus.php:103
+msgid "View Campus Item"
+msgstr "مشاهدة الحرم الجامعي البند"
+
+#: ../include/post-types/campus.php:104
+msgid "Search Campus"
+msgstr "بحث الحرم الجامعي"
+
+#: ../include/post-types/campus.php:105 ../include/post-types/course.php:105 ..
+#: include/post-types/events.php:103 ../include/post-types/gallery.php:69 ..
+#: include/post-types/teams.php:47
+msgid "Nothing found"
+msgstr "العثور على أي شيء"
+
+#: ../include/post-types/campus.php:106 ../include/post-types/course.php:106 ..
+#: include/post-types/events.php:104 ../include/post-types/gallery.php:70 ..
+#: include/post-types/teams.php:48
+msgid "Nothing found in Trash"
+msgstr "العثور على أي شيء في سلة المهملات"
+
+#: ../include/post-types/course.php:23 ../include/post-types/course.php:145 ..
+#: include/post-types/events.php:23 ../include/post-types/events.php:141
+msgid "Categories"
+msgstr "الفئات"
+
+#: ../include/post-types/course.php:24 ../include/post-types/events.php:24
+msgid "Organizer"
+msgstr "منظم"
+
+#: ../include/post-types/course.php:97 ../include/post-types/course.php:98
+msgid "Course"
+msgstr "دورة"
+
+#: ../include/post-types/course.php:99 ../include/post-types/course.php:102
+msgid "Add New Course"
+msgstr "إضافة مسار جديد"
+
+#: ../include/post-types/course.php:100
+msgid "Edit Course"
+msgstr "تحرير دورة"
+
+#: ../include/post-types/course.php:101
+msgid "New Course Item"
+msgstr "دورة عنصر جديد"
+
+#: ../include/post-types/course.php:103
+msgid "View Course Item"
+msgstr "عرض دورة البند"
+
+#: ../include/post-types/course.php:104
+msgid "Search Course"
+msgstr "دورة البحث"
+
+#: ../include/post-types/course.php:140
+msgid "Course Categories"
+msgstr "بالطبع الفئات"
+
+#: ../include/post-types/course.php:141
+msgid "Search course Categories"
+msgstr "بالطبع البحث الفئات"
+
+#: ../include/post-types/course.php:142
+msgid "Edit course Category"
+msgstr "تحرير مسار الفئة"
+
+#: ../include/post-types/course.php:143
+msgid "Update course Category"
+msgstr "تحديث بالطبع الفئة"
+
+#: ../include/post-types/course.php:144 ../include/post-types/events.php:140
+msgid "Add New Category"
+msgstr "إضافة فئة جديدة"
+
+#: ../include/post-types/events.php:95 ../include/post-types/events.php:96
+msgid "Events"
+msgstr "أحداث"
+
+#: ../include/post-types/events.php:97 ../include/post-types/events.php:100
+msgid "Add New Event"
+msgstr "إضافة حدث جديد"
+
+#: ../include/post-types/events.php:98
+msgid "Edit Event"
+msgstr "تحرير الحدث"
+
+#: ../include/post-types/events.php:99
+msgid "New Event Item"
+msgstr "الحدث عنصر جديد"
+
+#: ../include/post-types/events.php:101
+msgid "View Event Item"
+msgstr "مشاهدة الحدث البند"
+
+#: ../include/post-types/events.php:102
+msgid "Search Event"
+msgstr "بحث الحدث"
+
+#: ../include/post-types/events.php:136
+msgid "Event Categories"
+msgstr "حدث الفئات"
+
+#: ../include/post-types/events.php:137
+msgid "Search Event Categories"
+msgstr "البحث حدث الفئات"
+
+#: ../include/post-types/events.php:138
+msgid "Edit Event Category"
+msgstr "الفئة تحرير الحدث"
+
+#: ../include/post-types/events.php:139
+msgid "Update Event Category"
+msgstr "فئة الحدث التحديث"
+
+#: ../include/post-types/events.php:160
+msgid "Event Tags"
+msgstr "الحدث الكلمات"
+
+#: ../include/post-types/events.php:161
+msgid "event-tag"
+msgstr "الحدث العلامة"
+
+#: ../include/post-types/events.php:162
+msgid "Search Tags"
+msgstr "بحث الكلمات"
+
+#: ../include/post-types/events.php:163
+msgid "Popular Tags"
+msgstr "الكلمات شعبية"
+
+#: ../include/post-types/events.php:164
+msgid "All Tags"
+msgstr "كل الكلمات"
+
+#: ../include/post-types/events.php:167
+msgid "Edit Tag"
+msgstr "تحرير علامة"
+
+#: ../include/post-types/events.php:168
+msgid "Update Tag"
+msgstr "تحديث الوسم"
+
+#: ../include/post-types/events.php:169
+msgid "Add New Tag"
+msgstr "إضافة علامة جديدة"
+
+#: ../include/post-types/events.php:170
+msgid "New Tag Name"
+msgstr "الجديد اسم العلامة"
+
+#: ../include/post-types/events.php:171
+msgid "Separate tags with commas"
+msgstr "علامات منفصلة مع الفواصل"
+
+#: ../include/post-types/events.php:172
+msgid "Add or remove tags"
+msgstr "إضافة أو إزالة العلامات"
+
+#: ../include/post-types/events.php:173
+msgid "Choose from the most used tags"
+msgstr "اختر من علامات الأكثر استخداما"
+
+#: ../include/post-types/gallery.php:62
+msgid "Galleries"
+msgstr "المعارض"
+
+#: ../include/post-types/gallery.php:63 ../include/post-types/gallery.php:66
+msgid "Add New Gallery"
+msgstr "إضافة معرض جديد"
+
+#: ../include/post-types/gallery.php:64
+msgid "Edit Gallery"
+msgstr "تحرير الصور"
+
+#: ../include/post-types/gallery.php:65
+msgid "New Gallery Item"
+msgstr "معرض عنصر جديد"
+
+#: ../include/post-types/gallery.php:67
+msgid "View Gallery Item"
+msgstr "عرض الصور البند"
+
+#: ../include/post-types/gallery.php:68
+msgid "Search Gallery"
+msgstr "بحث في الالبوم"
+
+#: ../include/post-types/gallery.php:93 ../include/post-types/gallery.php:98
+msgid "Gallery Albums"
+msgstr "معرض الالبومات"
+
+#: ../include/post-types/gallery.php:94
+msgid "Search Gallery Albums"
+msgstr "معرض البحث الالبومات"
+
+#: ../include/post-types/gallery.php:95
+msgid "Edit Gallery Album"
+msgstr "تحرير الصور الألبوم"
+
+#: ../include/post-types/gallery.php:96
+msgid "Update Gallery Album"
+msgstr "تحديث الألبومات"
+
+#: ../include/post-types/gallery.php:97
+msgid "Add New Album"
+msgstr "إضافة ألبوم جديد"
+
+#: ../include/post-types/gallery.php:151
+msgid "Image Title"
+msgstr "عنوان الصورة"
+
+#: ../include/post-types/gallery.php:156
+msgid "Image Description"
+msgstr "صورة الوصف"
+
+#: ../include/post-types/gallery.php:161
+msgid "Video Link"
+msgstr "وصلة فيديو"
+
+#: ../include/post-types/gallery.php:191
+msgid "Gallery Options"
+msgstr "خيارات معرض"
+
+#: ../include/post-types/gallery.php:210
+msgid "Gallery is Empty. Please Select Media"
+msgstr "معرض فارغة . الرجاء اختيار وسائل الإعلام"
+
+#: ../include/post-types/gallery.php:342 ../include/post-types/gallery.php:344
+msgid "Description view layout"
+msgstr "وصف عرض تخطيط"
+
+#: ../include/post-types/gallery.php:347
+msgid "Images View"
+msgstr "عرض الصور"
+
+#: ../include/post-types/gallery.php:348
+msgid "Carousel View"
+msgstr "دائري مشاهدة"
+
+#: ../include/post-types/gallery.php:350
+msgid "Please select Gallery Description style layout."
+msgstr "يرجى تحديد معرض تخطيط الوصف الاسلوب."
+
+#: ../include/post-types/gallery.php:358 ../include/post-types/gallery.php:361 ..
+#: templates/teams/team_element.php:143
+msgid "Pagination"
+msgstr "ترقيم الصفحات"
+
+#: ../include/post-types/gallery.php:364 ../templates/course/course_element.php:
+#: 126 ../templates/course/course_element.php:165 ..
+#: templates/events/event_element.php:142 ../templates/events/event_element.php:
+#: 171 ../templates/events/event_element.php:197 ../templates/teams/team_element.
+#: php:106
+msgid "Yes"
+msgstr "نعم"
+
+#: ../include/post-types/gallery.php:365 ../templates/course/course_element.php:
+#: 127 ../templates/course/course_element.php:166 ..
+#: templates/events/event_element.php:143 ../templates/events/event_element.php:
+#: 172 ../templates/events/event_element.php:198 ../templates/teams/team_element.
+#: php:107
+msgid "No"
+msgstr "لا"
+
+#: ../include/post-types/gallery.php:368 ../include/post-types/gallery.php:370
+msgid "Record per page"
+msgstr "سجل في الصفحة"
+
+#: ../include/post-types/teams.php:39 ../include/post-types/teams.php:40
+msgid "Teams"
+msgstr "فرق"
+
+#: ../include/post-types/teams.php:41 ../include/post-types/teams.php:44
+msgid "Add New Team"
+msgstr "إضافة فريق جديد"
+
+#: ../include/post-types/teams.php:42
+msgid "Edit Team"
+msgstr "تحرير فريق"
+
+#: ../include/post-types/teams.php:43
+msgid "New Team Item"
+msgstr "فريق عنصر جديد"
+
+#: ../include/post-types/teams.php:45
+msgid "View Team Item"
+msgstr "عرض العنصر فريق"
+
+#: ../include/post-types/teams.php:46
+msgid "Search Team"
+msgstr "فريق البحث"
+
+#: ../templates/course/course_element.php:50
+msgid "Edit Course Options"
+msgstr "تحرير خيارات دورة"
+
+#: ../templates/course/course_element.php:57 ../templates/events/event_element.
+#: php:57 ../templates/teams/team_element.php:60
+msgid "Section Title"
+msgstr "القسم عنوان"
+
+#: ../templates/course/course_element.php:64
+msgid "Course Design Views"
+msgstr "التصميم البرنامج الدراسي المشاهدات"
+
+#: ../templates/course/course_element.php:70
+msgid "Simple"
+msgstr "بسيط"
+
+#: ../templates/course/course_element.php:71
+msgid "Classic"
+msgstr "كلاسيكي"
+
+#: ../templates/course/course_element.php:72 ../templates/teams/team_element.php:74
+msgid "Modern"
+msgstr "حديث"
+
+#: ../templates/course/course_element.php:78 ../templates/course/course_element.
+#: php:98 ../templates/events/event_element.php:79 ..
+#: templates/events/event_element.php:114
+msgid ""
+"Please select category to show posts. If you dont select category it will "
+"display all posts"
+msgstr ""
+"الرجاء تحديد الفئة لإظهار وظيفة. إذا كنت لا اختيار فئة أنه سيتم عرض كل "
+"المشاركات"
+
+#: ../templates/course/course_element.php:86 ../templates/events/event_element.
+#: php:102
+msgid "Choose Category"
+msgstr "اختر الفئة"
+
+#: ../templates/course/course_element.php:92 ../templates/events/event_element.
+#: php:108
+msgid "--Select Category--"
+msgstr "--اختر الفئة--"
+
+#: ../templates/course/course_element.php:104 ../templates/events/event_element.
+#: php:120 ../templates/teams/team_element.php:85
+msgid "Post Order"
+msgstr "مشاركة ترتيب"
+
+#: ../templates/course/course_element.php:110 ../templates/events/event_element.
+#: php:126 ../templates/teams/team_element.php:91
+msgid "Asc"
+msgstr "تصاعدي"
+
+#: ../templates/course/course_element.php:111 ../templates/events/event_element.
+#: php:127 ../templates/teams/team_element.php:92
+msgid "DESC"
+msgstr "تنازلي"
+
+#: ../templates/course/course_element.php:120
+msgid "Display Pagination"
+msgstr "عرض ترقيم الصفحات"
+
+#: ../templates/course/course_element.php:135 ../templates/events/event_element.
+#: php:151 ../templates/teams/team_element.php:116
+msgid "Length of Excerpt"
+msgstr "طول مقتطف"
+
+#: ../templates/course/course_element.php:142 ../templates/events/event_element.
+#: php:158
+msgid ""
+"Enter number of character for short description text, excerpt length will "
+"work only in list view."
+msgstr "أدخل عدد من حرف صفا موجزا النص ، و طول مقتطفات تعمل فقط في عرض القائمة ."
+
+#: ../templates/course/course_element.php:148 ../templates/events/event_element.
+#: php:180 ../templates/gallery-styles/gallery_element.php:149 ..
+#: templates/teams/team_element.php:130
+msgid "No. of Post Per Page"
+msgstr "رقم البريد لكل صفحة"
+
+#: ../templates/course/course_element.php:155 ../templates/events/event_element.
+#: php:187
+msgid "To display all the records, leave this field blank"
+msgstr "لعرض كافة السجلات ، اترك هذا الحقل فارغا"
+
+#: ../templates/course/course_element.php:161 ../templates/events/event_element.
+#: php:193
+msgid "Filterable"
+msgstr "ترشيح"
+
+#: ../templates/course/course_element.php:173 ../templates/events/event_element.
+#: php:205 ../templates/gallery-styles/gallery_element.php:157 ..
+#: templates/teams/team_element.php:155
+msgid "Insert"
+msgstr "إدراج"
+
+#: ../templates/course/course_element.php:181 ../templates/events/event_element.
+#: php:213 ../templates/gallery-styles/gallery_element.php:168 ..
+#: templates/teams/team_element.php:163
+msgid "Save"
+msgstr "حفظ"
+
+#: ../templates/course/course_functions.php:232 ..
+#: templates/events/event_functions.php:286
+msgid "Sort by"
+msgstr "ترتيب حسب"
+
+#: ../templates/course/single-course.php:144
+msgid "Starts from:"
+msgstr "يبدأ من :"
+
+#: ../templates/course/single-course.php:165
+msgid "Map it"
+msgstr "تعيين ذلك"
+
+#: ../templates/course/single-course.php:229
+msgid "Class Description"
+msgstr "الطبقة الوصف"
+
+#: ../templates/course/single-course.php:350 ../templates/teams/team-grid.php:83 .
+#: ./templates/teams/team-list.php:90 ../templates/teams/team-listing.php:90 ..
+#: templates/teams/team-modern.php:85 ../templates/teams/team-simple.php:75 ..
+#: templates/teams/team-slider.php:105
+msgid "No team found."
+msgstr "العثور على أي فريق ."
+
+#: ../templates/events/event_element.php:50
+msgid "Edit Events Options"
+msgstr "زر لون الخط"
+
+#: ../templates/events/event_element.php:64
+msgid "Events Design Views"
+msgstr "أحداث التصميم المشاهدات"
+
+#: ../templates/events/event_element.php:70
+msgid "Events Grid"
+msgstr "أحداث الشبكة"
+
+#: ../templates/events/event_element.php:71
+msgid "Events Listing"
+msgstr "أحداث العرض"
+
+#: ../templates/events/event_element.php:72
+msgid "Events Slider"
+msgstr "أحداث المتزلج"
+
+#: ../templates/events/event_element.php:73
+msgid "Events Calender"
+msgstr "رزنامة الاحداث"
+
+#: ../templates/events/event_element.php:85
+msgid "Events Listing Types"
+msgstr "الأحداث قائمة أنواع"
+
+#: ../templates/events/event_element.php:91
+msgid "All Events"
+msgstr "كل الأحداث"
+
+#: ../templates/events/event_element.php:92
+msgid "Upcoming Events"
+msgstr "الأحداث القادمة"
+
+#: ../templates/events/event_element.php:93
+msgid "Past Events"
+msgstr "الأحداث الماضية"
+
+#: ../templates/events/event_element.php:136
+msgid "Show Time"
+msgstr "موعد العرض"
+
+#: ../templates/events/event_element.php:165
+msgid "display Pagination"
+msgstr "عرض ترقيم الصفحات"
+
+#: ../templates/events/event_functions.php:572 ../templates/events/single-events.
+#: php:190
+msgid "Add to Calender"
+msgstr "أضف إلى الرزنامة"
+
+#: ../templates/events/single-events.php:228
+msgid "Event Description"
+msgstr "وصف الحدث"
+
+#: ../templates/gallery-styles/gallery-video.php:46
+msgid "Comments"
+msgstr "تعليقات"
+
+#: ../templates/gallery-styles/gallery_element.php:54
+msgid "Edit Gallery Options"
+msgstr "تحرير خيارات معرض"
+
+#: ../templates/gallery-styles/gallery_element.php:66
+msgid "Header Title"
+msgstr "رأس العنوان"
+
+#: ../templates/gallery-styles/gallery_element.php:76
+msgid "Choose Gallery Layout"
+msgstr "اختيار معرض تخطيط"
+
+#: ../templates/gallery-styles/gallery_element.php:82
+msgid "Small Gallery"
+msgstr "معرض صغيرة"
+
+#: ../templates/gallery-styles/gallery_element.php:83
+msgid "Medium Gallery"
+msgstr "معرض المتوسطة"
+
+#: ../templates/gallery-styles/gallery_element.php:90
+msgid ""
+"Please select Gallery Layout. If you dont select category it will display "
+"all posts"
+msgstr "يرجى تحديد معرض تخطيط. إذا كنت لا اختيار فئة أنه سيتم عرض كل المشاركات"
+
+#: ../templates/gallery-styles/gallery_element.php:98
+msgid "Choose Gallery Album"
+msgstr "اختيار الألبومات"
+
+#: ../templates/gallery-styles/gallery_element.php:106
+msgid "Select Gallery Album"
+msgstr "حدد الألبومات"
+
+#: ../templates/gallery-styles/gallery_element.php:122
+msgid "Please select Gallery."
+msgstr "الرجاء اختيار الصور ."
+
+#: ../templates/gallery-styles/gallery_element.php:129
+msgid "Gallery Pagination"
+msgstr "معرض ترقيم الصفحات"
+
+#: ../templates/gallery-styles/gallery_element.php:135
+msgid "On"
+msgstr "على"
+
+#: ../templates/gallery-styles/gallery_element.php:136
+msgid "Off"
+msgstr "بعيدا"
+
+#: ../templates/gallery-styles/gallery_element.php:141
+msgid "Please Select Discription."
+msgstr "الرجاء اختيار ديسكريبأيشن ."
+
+#: ../templates/teams/single-team.php:87
+msgid "Email:"
+msgstr "البريد الإلكتروني :"
+
+#: ../templates/teams/single-team.php:97
+msgid "Phone:"
+msgstr "الهاتف :"
+
+#: ../templates/teams/single-team.php:107
+msgid "Address:"
+msgstr "عنوان:"
+
+#: ../templates/teams/team-modern.php:76
+msgid "View Profile"
+msgstr "مشاهدة الملف الشخصي"
+
+#: ../templates/teams/team_element.php:52
+msgid "Edit Team Options"
+msgstr "تحرير خيارات فريق"
+
+#: ../templates/teams/team_element.php:67
+msgid "Team Styles"
+msgstr "أنماط فريق"
+
+#: ../templates/teams/team_element.php:73
+msgid "Grid"
+msgstr "شبكة"
+
+#: ../templates/teams/team_element.php:75
+msgid "Listing"
+msgstr "قائمة"
+
+#: ../templates/teams/team_element.php:76
+msgid "Color Listing"
+msgstr "قائمة اللون"
+
+#: ../templates/teams/team_element.php:76
+msgid "slider"
+msgstr "المنزلق"
+
+#: ../templates/teams/team_element.php:100
+msgid "Post Description"
+msgstr "آخر الوصف"
+
+#: ../templates/teams/team_element.php:123
+msgid "Enter number of character for short description text."
+msgstr "إدخال عدد من الأحرف ل وصف النص القصير."
+
+#: ../templates/teams/team_element.php:137
+msgid "To display all the records, leave this field blank."
+msgstr "لعرض كافة السجلات ، وترك هذا الحقل فارغا ."
+
+#: ../templates/teams/team_element.php:147
+msgid "Show Pagination"
+msgstr "مشاهدة ترقيم الصفحات"
+
+#: ../templates/teams/team_element.php:148
+msgid "Single Page"
+msgstr "صفحة واحدة"

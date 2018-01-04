@@ -1,0 +1,1365 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CS Framework v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-09 08:05:31+0000\n"
+"Last-Translator: admin <dum1@chimpgroup.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: U.A.E.\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: include/meta-boxes/form_meta_fields.php:367
+#@ cs_frame
+msgid "Full Width"
+msgstr ""
+
+#: include/meta-boxes/form_meta_fields.php:376
+#@ cs_frame
+msgid "Sidebar Right"
+msgstr ""
+
+#: include/meta-boxes/form_meta_fields.php:385
+#@ cs_frame
+msgid "Sidebar Left"
+msgstr ""
+
+#: include/meta-boxes/form_meta_fields.php:721
+#: include/meta-boxes/form_meta_fields.php:1079
+#@ cs_frame
+msgid "Browse"
+msgstr ""
+
+#: include/meta-boxes/form_meta_fields.php:963
+#@ cs_frame
+msgid "Delete image"
+msgstr ""
+
+#: include/meta-boxes/form_meta_fields.php:963
+#@ cs_frame
+msgid "<i class=\"icon-times\"></i>"
+msgstr ""
+
+#: include/meta-boxes/form_meta_fields.php:974
+#@ cs_frame
+msgid "Delete"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:34
+#: include/meta-boxes/event_meta.php:34
+#@ cs_frame
+msgid "General"
+msgstr ""
+
+#: include/meta-boxes/campus_meta.php:38
+#: include/meta-boxes/course_meta.php:38
+#: include/meta-boxes/event_meta.php:38
+#: include/meta-boxes/team_meta.php:36
+#@ cs_frame
+msgid "Sub Header"
+msgstr ""
+
+#: include/meta-boxes/campus_meta.php:43
+#: include/meta-boxes/course_meta.php:43
+#: include/meta-boxes/event_meta.php:43
+#: include/meta-boxes/team_meta.php:41
+#@ cs_frame
+msgid "Header Absolute"
+msgstr ""
+
+#: include/meta-boxes/campus_meta.php:46
+#: include/meta-boxes/course_meta.php:46
+#: include/meta-boxes/event_meta.php:46
+#: include/meta-boxes/team_meta.php:44
+#@ cs_frame
+msgid "Seo Options"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:100
+#: include/meta-boxes/event_meta.php:102
+#@ cs_frame
+msgid "Social Sharing"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:680
+#: include/meta-boxes/course_meta.php:764
+#: include/meta-boxes/event_meta.php:628
+#: include/meta-boxes/event_meta.php:697
+#: include/meta-boxes/team_meta.php:207
+#: include/meta-boxes/team_meta.php:351
+#: include/meta-boxes/team_meta.php:420
+#@ cs_frame
+msgid "Description"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:216
+#@ cs_frame
+msgid "List"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:445
+#: include/meta-boxes/event_meta.php:454
+#: include/meta-boxes/event_meta.php:459
+#@ cs_frame
+msgid "Gallery"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:466
+#@ cs_frame
+msgid "Add Gallery Images"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:17
+#: include/meta-boxes/team_meta.php:48
+#@ cs_frame
+msgid "Team Options"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:105
+#@ cs_frame
+msgid "Position"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:115
+#@ cs_frame
+msgid "Phone"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:133
+#: templates/teams/single-team.php:116
+#: templates/teams/team-grid.php:71
+#: templates/teams/team-list.php:77
+#: templates/teams/team-listing.php:79
+#: templates/teams/team-slider.php:91
+#@ cs_frame
+msgid "Email"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:143
+#@ cs_frame
+msgid "Facebook"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:152
+#@ cs_frame
+msgid "Twitter"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:161
+#@ cs_frame
+msgid "Google Plus"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:170
+#@ cs_frame
+msgid "Linkedin"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:179
+#: include/meta-boxes/team_meta.php:187
+#@ cs_frame
+msgid "Job Specifications"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:192
+#@ cs_frame
+msgid "Job Specification"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:198
+#@ cs_frame
+msgid "Sub Title"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:220
+#@ cs_frame
+msgid "Press enter after entering a list item"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:258
+#: include/meta-boxes/team_meta.php:267
+#: include/meta-boxes/team_meta.php:272
+#@ cs_frame
+msgid "Experience and Expertise"
+msgstr ""
+
+#: include/post-types/campus.php:25
+#: include/post-types/course.php:23
+#: include/post-types/course.php:143
+#: include/post-types/events.php:23
+#: include/post-types/events.php:141
+#@ cs_frame
+msgid "Categories"
+msgstr ""
+
+#: include/post-types/campus.php:105
+#: include/post-types/course.php:103
+#: include/post-types/events.php:103
+#: include/post-types/teams.php:47
+#@ cs_frame
+msgid "Nothing found"
+msgstr ""
+
+#: include/post-types/campus.php:106
+#: include/post-types/course.php:104
+#: include/post-types/events.php:104
+#: include/post-types/teams.php:48
+#@ cs_frame
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: include/post-types/course.php:142
+#: include/post-types/events.php:140
+#@ cs_frame
+msgid "Add New Category"
+msgstr ""
+
+#: include/post-types/teams.php:39
+#: include/post-types/teams.php:40
+#@ cs_frame
+msgid "Teams"
+msgstr ""
+
+#: include/post-types/teams.php:41
+#: include/post-types/teams.php:44
+#@ cs_frame
+msgid "Add New Team"
+msgstr ""
+
+#: include/post-types/teams.php:42
+#@ cs_frame
+msgid "Edit Team"
+msgstr ""
+
+#: include/post-types/teams.php:43
+#@ cs_frame
+msgid "New Team Item"
+msgstr ""
+
+#: include/post-types/teams.php:45
+#@ cs_frame
+msgid "View Team Item"
+msgstr ""
+
+#: include/post-types/teams.php:46
+#@ cs_frame
+msgid "Search Team"
+msgstr ""
+
+#: templates/course/course_element.php:57
+#: templates/events/event_element.php:57
+#: templates/teams/team_element.php:60
+#@ cs_frame
+msgid "Section Title"
+msgstr ""
+
+#: templates/course/course_element.php:86
+#: templates/events/event_element.php:101
+#@ cs_frame
+msgid "Choose Category"
+msgstr ""
+
+#: templates/course/course_element.php:126
+#: templates/course/course_element.php:165
+#: templates/events/event_element.php:141
+#: templates/events/event_element.php:170
+#: templates/events/event_element.php:196
+#: templates/teams/team_element.php:105
+#@ cs_frame
+msgid "Yes"
+msgstr ""
+
+#: templates/course/course_element.php:127
+#: templates/course/course_element.php:166
+#: templates/events/event_element.php:142
+#: templates/events/event_element.php:171
+#: templates/events/event_element.php:197
+#: templates/teams/team_element.php:106
+#@ cs_frame
+msgid "No"
+msgstr ""
+
+#: templates/course/course_element.php:104
+#: templates/events/event_element.php:119
+#: templates/teams/team_element.php:84
+#@ cs_frame
+msgid "Post Order"
+msgstr ""
+
+#: templates/teams/team_element.php:90
+#@ cs_frame
+msgid "Asc"
+msgstr ""
+
+#: templates/course/course_element.php:111
+#: templates/events/event_element.php:126
+#: templates/teams/team_element.php:91
+#@ cs_frame
+msgid "DESC"
+msgstr ""
+
+#: templates/course/course_element.php:135
+#: templates/events/event_element.php:150
+#: templates/teams/team_element.php:115
+#@ cs_frame
+msgid "Length of Excerpt"
+msgstr ""
+
+#: templates/teams/team_element.php:122
+#@ cs_frame
+msgid "Enter number of character for short description text."
+msgstr ""
+
+#: templates/course/course_element.php:148
+#: templates/events/event_element.php:179
+#: templates/gallery-styles/gallery_element.php:148
+#: templates/teams/team_element.php:129
+#@ cs_frame
+msgid "No. of Post Per Page"
+msgstr ""
+
+#: templates/teams/team_element.php:136
+#@ cs_frame
+msgid "To display all the records, leave this field blank."
+msgstr ""
+
+#: templates/teams/team_element.php:142
+#@ cs_frame
+msgid "Pagination"
+msgstr ""
+
+#: templates/teams/team_element.php:146
+#@ cs_frame
+msgid "Show Pagination"
+msgstr ""
+
+#: templates/teams/team_element.php:147
+#@ cs_frame
+msgid "Single Page"
+msgstr ""
+
+#: templates/course/course_element.php:173
+#: templates/events/event_element.php:204
+#: templates/gallery-styles/gallery_element.php:156
+#: templates/teams/team_element.php:154
+#@ cs_frame
+msgid "Insert"
+msgstr ""
+
+#: templates/course/course_element.php:181
+#: templates/events/event_element.php:212
+#: templates/gallery-styles/gallery_element.php:167
+#: templates/teams/team_element.php:162
+#@ cs_frame
+msgid "Save"
+msgstr ""
+
+#: include/meta-boxes/campus_meta.php:50
+#: include/meta-boxes/event_meta.php:50
+#@ cs_frame
+msgid "Location"
+msgstr ""
+
+#: templates/teams/team-grid.php:83
+#: templates/teams/team-list.php:89
+#: templates/teams/team-listing.php:90
+#: templates/teams/team-modern.php:58
+#: templates/teams/team-slider.php:105
+#@ cs_frame
+msgid "No team found."
+msgstr ""
+
+#: templates/teams/team_element.php:52
+#@ cs_frame
+msgid "Edit Team Options"
+msgstr ""
+
+#: templates/teams/team_element.php:99
+#@ cs_frame
+msgid "Post Description"
+msgstr ""
+
+#: include/meta-boxes/campus_meta.php:93
+#: include/meta-boxes/course_meta.php:140
+#: include/meta-boxes/event_meta.php:142
+#: include/meta-boxes/team_meta.php:124
+#@ cs_frame
+msgid "Address"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:574
+#: include/meta-boxes/team_meta.php:297
+#@ cs_frame
+msgid "Add Built Process"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:442
+#: include/meta-boxes/course_meta.php:480
+#: include/meta-boxes/course_meta.php:508
+#: include/meta-boxes/course_meta.php:547
+#: include/meta-boxes/course_meta.php:574
+#: include/meta-boxes/course_meta.php:627
+#: include/meta-boxes/course_meta.php:668
+#: include/meta-boxes/course_meta.php:751
+#: include/meta-boxes/event_meta.php:390
+#: include/meta-boxes/event_meta.php:425
+#: include/meta-boxes/event_meta.php:485
+#: include/meta-boxes/event_meta.php:580
+#: include/meta-boxes/event_meta.php:617
+#: include/meta-boxes/event_meta.php:684
+#: include/meta-boxes/team_meta.php:303
+#: include/meta-boxes/team_meta.php:340
+#: include/meta-boxes/team_meta.php:407
+#@ cs_frame
+msgid "Title"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:628
+#: include/meta-boxes/event_meta.php:581
+#: include/meta-boxes/team_meta.php:304
+#@ cs_frame
+msgid "Actions"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:613
+#: include/meta-boxes/team_meta.php:336
+#@ cs_frame
+msgid "Built Process Setting"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:679
+#: include/meta-boxes/team_meta.php:402
+#@ cs_frame
+msgid "Built Process Settings"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:715
+#: include/meta-boxes/team_meta.php:438
+#@ cs_frame
+msgid "Update Built Process"
+msgstr ""
+
+#: templates/gallery-styles/gallery-video.php:44
+#@ cs_frame
+msgid "0"
+msgstr ""
+
+#: templates/gallery-styles/gallery-video.php:44
+#@ cs_frame
+msgid "1"
+msgstr ""
+
+#: templates/gallery-styles/gallery-video.php:44
+#@ cs_frame
+msgid "%"
+msgstr ""
+
+#: templates/gallery-styles/gallery-video.php:46
+#@ cs_frame
+msgid "Comments"
+msgstr ""
+
+#: templates/gallery-styles/gallery_element.php:54
+#@ cs_frame
+msgid "Edit Gallery Options"
+msgstr ""
+
+#: templates/gallery-styles/gallery_element.php:66
+#@ cs_frame
+msgid "Header Title"
+msgstr ""
+
+#: templates/gallery-styles/gallery_element.php:76
+#@ cs_frame
+msgid "Choose Gallery Layout"
+msgstr ""
+
+#: templates/gallery-styles/gallery_element.php:121
+#@ cs_frame
+msgid "Please select Gallery."
+msgstr ""
+
+#: templates/gallery-styles/gallery_element.php:128
+#@ cs_frame
+msgid "Gallery Pagination"
+msgstr ""
+
+#: templates/gallery-styles/gallery_element.php:140
+#@ cs_frame
+msgid "Please Select Discription."
+msgstr ""
+
+#: templates/teams/single-team.php:78
+#@ cs_frame
+msgid "Email:"
+msgstr ""
+
+#: templates/teams/single-team.php:88
+#@ cs_frame
+msgid "Phone:"
+msgstr ""
+
+#: templates/teams/single-team.php:98
+#@ cs_frame
+msgid "Address:"
+msgstr ""
+
+#: templates/teams/team-modern.php:49
+msgid "View Profile"
+msgstr ""
+
+#: templates/teams/team_element.php:67
+#@ cs_frame
+msgid "Team Styles"
+msgstr ""
+
+#: templates/teams/team_element.php:73
+#@ cs_frame
+msgid "Grid"
+msgstr ""
+
+#: templates/course/course_element.php:72
+#: templates/teams/team_element.php:74
+#@ cs_frame
+msgid "Modern"
+msgstr ""
+
+#: templates/teams/team_element.php:75
+#@ cs_frame
+msgid "Listing"
+msgstr ""
+
+#: templates/teams/team_element.php:76
+#@ cs_frame
+msgid "Color Listing"
+msgstr ""
+
+#: templates/teams/team_element.php:76
+#@ cs_frame
+msgid "slider"
+msgstr ""
+
+#: templates/gallery-styles/gallery_element.php:82
+#@ cs_frame
+msgid "Small Gallery"
+msgstr ""
+
+#: templates/gallery-styles/gallery_element.php:83
+#@ cs_frame
+msgid "Medium Gallery"
+msgstr ""
+
+#: templates/gallery-styles/gallery_element.php:89
+#@ cs_frame
+msgid "Please select Gallery Layout. If you dont select category it will display all posts"
+msgstr ""
+
+#: templates/gallery-styles/gallery_element.php:97
+#@ cs_frame
+msgid "Choose Gallery Album"
+msgstr ""
+
+#: templates/gallery-styles/gallery_element.php:105
+#@ cs_frame
+msgid "Select Gallery Album"
+msgstr ""
+
+#: templates/gallery-styles/gallery_element.php:134
+#@ cs_frame
+msgid "On"
+msgstr ""
+
+#: templates/gallery-styles/gallery_element.php:135
+#@ cs_frame
+msgid "Off"
+msgstr ""
+
+#: templates/course/course_element.php:155
+#: templates/events/event_element.php:186
+#@ cs_frame
+msgid "To display all the records, leave this field blank"
+msgstr ""
+
+#: include/meta-boxes/campus_meta.php:18
+#@ cs_frame
+msgid "Campus Options"
+msgstr ""
+
+#: include/meta-boxes/campus_meta.php:80
+#: include/meta-boxes/course_meta.php:127
+#: include/meta-boxes/event_meta.php:129
+#@ cs_frame
+msgid "Location Map"
+msgstr ""
+
+#: include/meta-boxes/campus_meta.php:88
+#: templates/course/single-course.php:149
+#@ cs_frame
+msgid "Campus Location"
+msgstr ""
+
+#: include/meta-boxes/campus_meta.php:102
+#: include/meta-boxes/course_meta.php:149
+#: include/meta-boxes/event_meta.php:151
+#@ cs_frame
+msgid "City / Town"
+msgstr ""
+
+#: include/meta-boxes/campus_meta.php:111
+#: include/meta-boxes/course_meta.php:158
+#: include/meta-boxes/event_meta.php:160
+#@ cs_frame
+msgid "Post Code"
+msgstr ""
+
+#: include/meta-boxes/campus_meta.php:120
+#: include/meta-boxes/course_meta.php:167
+#: include/meta-boxes/event_meta.php:169
+#@ cs_frame
+msgid "Region"
+msgstr ""
+
+#: include/meta-boxes/campus_meta.php:134
+#: include/meta-boxes/course_meta.php:181
+#: include/meta-boxes/event_meta.php:183
+#@ cs_frame
+msgid "Country"
+msgstr ""
+
+#: include/meta-boxes/campus_meta.php:147
+#: include/meta-boxes/course_meta.php:194
+#: include/meta-boxes/event_meta.php:196
+#@ cs_frame
+msgid "Search This Location on Map"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:18
+#: include/meta-boxes/course_meta.php:51
+#@ cs_frame
+msgid "Course Options"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:109
+#: include/meta-boxes/event_meta.php:111
+#: include/post-types/course.php:176
+#: include/post-types/events.php:174
+#@ cs_frame
+msgid "Tags"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:135
+#: include/meta-boxes/event_meta.php:137
+#@ cs_frame
+msgid "Event Location"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:290
+#@ cs_frame
+msgid "Course Schedule"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:299
+#@ cs_frame
+msgid "Course Start Date"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:308
+#@ cs_frame
+msgid "Course End Date"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:318
+#: include/meta-boxes/event_meta.php:314
+#: include/meta-boxes/event_meta.php:338
+#: include/meta-boxes/event_meta.php:356
+#: include/meta-boxes/event_meta.php:376
+#@ cs_frame
+msgid "Wrapper"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:324
+#@ cs_frame
+msgid "Course Start Time"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:334
+#@ cs_frame
+msgid "Course End Time"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:344
+#@ cs_frame
+msgid "Course Descriptions"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:353
+#@ cs_frame
+msgid "Course Duration"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:362
+#@ cs_frame
+msgid "Course Code"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:378
+#@ cs_frame
+msgid "Degree Level"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:393
+#@ cs_frame
+msgid "Select Instructor"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:401
+#@ cs_frame
+msgid "Instructors"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:413
+#@ cs_frame
+msgid "Select Campus"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:422
+#: include/post-types/campus.php:97
+#: include/post-types/campus.php:98
+#@ cs_frame
+msgid "Campus"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:434
+#@ cs_frame
+msgid "Price Option"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:445
+#@ cs_frame
+msgid "Apply Now "
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:451
+#: include/meta-boxes/event_meta.php:399
+#@ cs_frame
+msgid "Url"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:460
+#@ cs_frame
+msgid "Course Price"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:471
+#@ cs_frame
+msgid "Tabs Shortcode"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:490
+#@ cs_frame
+msgid "Add Tab Shortcode"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:500
+#: include/meta-boxes/event_meta.php:417
+#@ cs_frame
+msgid "Team Shortcode"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:517
+#: include/meta-boxes/event_meta.php:434
+#@ cs_frame
+msgid "Add Team Shortcode"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:527
+#: include/meta-boxes/course_meta.php:536
+#: include/meta-boxes/course_meta.php:557
+#@ cs_frame
+msgid "Attachments"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:565
+#@ cs_frame
+msgid "Course Features"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:577
+#@ cs_frame
+msgid "Course Feature"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:585
+#: include/meta-boxes/course_meta.php:593
+#: include/meta-boxes/event_meta.php:516
+#@ cs_frame
+msgid "Color"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:621
+#: include/meta-boxes/course_meta.php:707
+#@ cs_frame
+msgid "Add Course Feature"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:663
+#@ cs_frame
+msgid "Course Feature Setting"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:692
+#: include/meta-boxes/course_meta.php:777
+#@ cs_frame
+msgid "Select icon"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:746
+#@ cs_frame
+msgid "Course Feature Settings"
+msgstr ""
+
+#: include/meta-boxes/course_meta.php:796
+#@ cs_frame
+msgid "Update Course Feature"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:18
+#: include/meta-boxes/event_meta.php:51
+#@ cs_frame
+msgid "Event Options"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:287
+#@ cs_frame
+msgid "Event Start Date"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:296
+#@ cs_frame
+msgid "Event End Date"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:305
+#: templates/events/event-list.php:69
+#: templates/events/single-events.php:155
+#@ cs_frame
+msgid "All Day"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:320
+#@ cs_frame
+msgid "Event Start Time"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:329
+#@ cs_frame
+msgid "Event End Time"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:345
+#@ cs_frame
+msgid "Repeat"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:349
+#: include/meta-boxes/event_meta.php:365
+#@ cs_frame
+msgid "Repeat how many time"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:352
+#@ cs_frame
+msgid "-- Never Repeat --"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:352
+#@ cs_frame
+msgid "Every Day"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:352
+#@ cs_frame
+msgid "Every Week"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:352
+#@ cs_frame
+msgid "Every Month"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:382
+#@ cs_frame
+msgid "Ticket Option"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:408
+#@ cs_frame
+msgid "Ticket Price"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:428
+#@ cs_frame
+msgid "Event Ticket Price"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:476
+#: include/meta-boxes/event_meta.php:488
+#@ cs_frame
+msgid "Built Process"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:499
+#@ cs_frame
+msgid "Status"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:507
+#@ cs_frame
+msgid "Event Status"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:527
+#@ cs_frame
+msgid "Event Speaker"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:536
+#@ cs_frame
+msgid "Speaker"
+msgstr ""
+
+#: include/meta-boxes/event_meta.php:547
+#@ cs_frame
+msgid "Repeat Access"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:94
+#@ cs_frame
+msgid "Department"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:227
+#@ cs_frame
+msgid "Skills shortcode"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:239
+#@ cs_frame
+msgid "Testimonial shortcode"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:249
+#@ cs_frame
+msgid "Contact Form shortcode"
+msgstr ""
+
+#: include/post-types/campus.php:26
+#: include/post-types/course.php:24
+#: include/post-types/events.php:24
+#@ cs_frame
+msgid "Organizer"
+msgstr ""
+
+#: include/post-types/campus.php:27
+#: include/post-types/course.php:25
+#: include/post-types/events.php:25
+#@ cs_frame
+msgid "Start Date"
+msgstr ""
+
+#: include/post-types/campus.php:28
+#: include/post-types/course.php:26
+#: include/post-types/events.php:26
+#@ cs_frame
+msgid "End Date"
+msgstr ""
+
+#: include/post-types/campus.php:29
+#: include/post-types/course.php:27
+#: include/post-types/events.php:27
+#@ cs_frame
+msgid "Timing"
+msgstr ""
+
+#: include/post-types/campus.php:78
+#: include/post-types/course.php:76
+#: include/post-types/events.php:76
+#@ cs_frame
+msgid "All day"
+msgstr ""
+
+#: include/post-types/campus.php:99
+#: include/post-types/campus.php:102
+#@ cs_frame
+msgid "Add New Campus"
+msgstr ""
+
+#: include/post-types/campus.php:100
+#@ cs_frame
+msgid "Edit Campus"
+msgstr ""
+
+#: include/post-types/campus.php:101
+#@ cs_frame
+msgid "New Campus Item"
+msgstr ""
+
+#: include/post-types/campus.php:103
+#@ cs_frame
+msgid "View Campus Item"
+msgstr ""
+
+#: include/post-types/campus.php:104
+#@ cs_frame
+msgid "Search Campus"
+msgstr ""
+
+#: include/post-types/course.php:95
+#: include/post-types/course.php:96
+#@ cs_frame
+msgid "Course"
+msgstr ""
+
+#: include/post-types/course.php:97
+#: include/post-types/course.php:100
+#@ cs_frame
+msgid "Add New Course"
+msgstr ""
+
+#: include/post-types/course.php:98
+#@ cs_frame
+msgid "Edit Course"
+msgstr ""
+
+#: include/post-types/course.php:99
+#@ cs_frame
+msgid "New Course Item"
+msgstr ""
+
+#: include/post-types/course.php:101
+#@ cs_frame
+msgid "View Course Item"
+msgstr ""
+
+#: include/post-types/course.php:102
+#@ cs_frame
+msgid "Search Course"
+msgstr ""
+
+#: include/post-types/course.php:138
+#@ cs_frame
+msgid "Course Categories"
+msgstr ""
+
+#: include/post-types/course.php:139
+#@ cs_frame
+msgid "Search course Categories"
+msgstr ""
+
+#: include/post-types/course.php:140
+#@ cs_frame
+msgid "Edit course Category"
+msgstr ""
+
+#: include/post-types/course.php:141
+#@ cs_frame
+msgid "Update course Category"
+msgstr ""
+
+#: include/post-types/course.php:162
+#@ cs_frame
+msgid "Course Tags"
+msgstr ""
+
+#: include/post-types/course.php:163
+#@ cs_frame
+msgid "course-tag"
+msgstr ""
+
+#: include/post-types/course.php:164
+#: include/post-types/events.php:162
+#@ cs_frame
+msgid "Search Tags"
+msgstr ""
+
+#: include/post-types/course.php:165
+#: include/post-types/events.php:163
+#@ cs_frame
+msgid "Popular Tags"
+msgstr ""
+
+#: include/post-types/course.php:166
+#: include/post-types/events.php:164
+#@ cs_frame
+msgid "All Tags"
+msgstr ""
+
+#: include/post-types/course.php:169
+#: include/post-types/events.php:167
+#@ cs_frame
+msgid "Edit Tag"
+msgstr ""
+
+#: include/post-types/course.php:170
+#: include/post-types/events.php:168
+#@ cs_frame
+msgid "Update Tag"
+msgstr ""
+
+#: include/post-types/course.php:171
+#: include/post-types/events.php:169
+#@ cs_frame
+msgid "Add New Tag"
+msgstr ""
+
+#: include/post-types/course.php:172
+#: include/post-types/events.php:170
+#@ cs_frame
+msgid "New Tag Name"
+msgstr ""
+
+#: include/post-types/course.php:173
+#: include/post-types/events.php:171
+#@ cs_frame
+msgid "Separate tags with commas"
+msgstr ""
+
+#: include/post-types/course.php:174
+#: include/post-types/events.php:172
+#@ cs_frame
+msgid "Add or remove tags"
+msgstr ""
+
+#: include/post-types/course.php:175
+#: include/post-types/events.php:173
+#@ cs_frame
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: include/post-types/events.php:95
+#: include/post-types/events.php:96
+#@ cs_frame
+msgid "Events"
+msgstr ""
+
+#: include/post-types/events.php:97
+#: include/post-types/events.php:100
+#@ cs_frame
+msgid "Add New Event"
+msgstr ""
+
+#: include/post-types/events.php:98
+#@ cs_frame
+msgid "Edit Event"
+msgstr ""
+
+#: include/post-types/events.php:99
+#@ cs_frame
+msgid "New Event Item"
+msgstr ""
+
+#: include/post-types/events.php:101
+#@ cs_frame
+msgid "View Event Item"
+msgstr ""
+
+#: include/post-types/events.php:102
+#@ cs_frame
+msgid "Search Event"
+msgstr ""
+
+#: include/post-types/events.php:136
+#@ cs_frame
+msgid "Event Categories"
+msgstr ""
+
+#: include/post-types/events.php:137
+#@ cs_frame
+msgid "Search Event Categories"
+msgstr ""
+
+#: include/post-types/events.php:138
+#@ cs_frame
+msgid "Edit Event Category"
+msgstr ""
+
+#: include/post-types/events.php:139
+#@ cs_frame
+msgid "Update Event Category"
+msgstr ""
+
+#: include/post-types/events.php:160
+#@ cs_frame
+msgid "Event Tags"
+msgstr ""
+
+#: include/post-types/events.php:161
+#@ cs_frame
+msgid "event-tag"
+msgstr ""
+
+#: templates/course/course_element.php:50
+#@ cs_frame
+msgid "Edit Course Options"
+msgstr ""
+
+#: templates/course/course_element.php:64
+#@ cs_frame
+msgid "Course Design Views"
+msgstr ""
+
+#: templates/course/course_element.php:70
+#@ cs_frame
+msgid "Simple"
+msgstr ""
+
+#: templates/course/course_element.php:71
+#@ cs_frame
+msgid "Classic"
+msgstr ""
+
+#: templates/course/course_element.php:78
+#: templates/course/course_element.php:98
+#: templates/events/event_element.php:78
+#: templates/events/event_element.php:113
+#@ cs_frame
+msgid "Please select category to show posts. If you dont select category it will display all posts"
+msgstr ""
+
+#: templates/course/course_element.php:92
+#: templates/events/event_element.php:107
+#@ cs_frame
+msgid "--Select Category--"
+msgstr ""
+
+#: templates/course/course_element.php:110
+#: templates/events/event_element.php:125
+#@ cs_frame
+msgid "ASC"
+msgstr ""
+
+#: templates/course/course_element.php:120
+#@ cs_frame
+msgid "Display Pagination"
+msgstr ""
+
+#: templates/course/course_element.php:142
+#: templates/events/event_element.php:157
+#@ cs_frame
+msgid "Enter number of character for short description text, excerpt length will work only in list view."
+msgstr ""
+
+#: templates/course/course_element.php:161
+#: templates/events/event_element.php:192
+#@ cs_frame
+msgid "Filterable"
+msgstr ""
+
+#: templates/course/course_functions.php:232
+#: templates/events/event_functions.php:283
+#: templates/events/event_functions_.php:279
+#@ cs_frame
+msgid "Sort by"
+msgstr ""
+
+#: templates/course/single-course.php:135
+#@ cs_frame
+msgid "Starts from:"
+msgstr ""
+
+#: templates/course/single-course.php:218
+#@ cs_frame
+msgid "Class Description"
+msgstr ""
+
+#: templates/events/event_element.php:50
+#@ cs_frame
+msgid "Edit Events Options"
+msgstr ""
+
+#: templates/events/event_element.php:64
+#@ cs_frame
+msgid "Events Design Views"
+msgstr ""
+
+#: templates/events/event_element.php:70
+#@ cs_frame
+msgid "Events Grid"
+msgstr ""
+
+#: templates/events/event_element.php:71
+#@ cs_frame
+msgid "Events Listing"
+msgstr ""
+
+#: templates/events/event_element.php:72
+#@ cs_frame
+msgid "Events Slider"
+msgstr ""
+
+#: templates/events/event_element.php:73
+#@ cs_frame
+msgid "Events Calender"
+msgstr ""
+
+#: templates/events/event_element.php:84
+#@ cs_frame
+msgid "Events Listing Types"
+msgstr ""
+
+#: templates/events/event_element.php:90
+#@ cs_frame
+msgid "All Events"
+msgstr ""
+
+#: templates/events/event_element.php:91
+#@ cs_frame
+msgid "Upcoming Events"
+msgstr ""
+
+#: templates/events/event_element.php:92
+#@ cs_frame
+msgid "Past Events"
+msgstr ""
+
+#: templates/events/event_element.php:135
+#@ cs_frame
+msgid "Show Time"
+msgstr ""
+
+#: templates/events/event_element.php:164
+#@ cs_frame
+msgid "display Pagination"
+msgstr ""
+
+#: templates/events/single-events.php:176
+#@ cs_frame
+msgid "Add to Calender"
+msgstr ""
+
+#: templates/events/single-events.php:177
+#@ cs_frame
+msgid "Share Event"
+msgstr ""
+
+#: templates/events/single-events.php:208
+#@ cs_frame
+msgid "Event Description"
+msgstr ""
+
+#: templates/course/single-course.php:151
+#@ cs_frame
+msgid "Map it"
+msgstr ""
+
